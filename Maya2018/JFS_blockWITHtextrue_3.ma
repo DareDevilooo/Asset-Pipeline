@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff07 scene
 //Name: JFS_blockWITHtextrue_3.ma
-//Last modified: Wed, Sep 05, 2018 07:36:24 PM
+//Last modified: Wed, Sep 05, 2018 07:37:10 PM
 //Codeset: 1252
 requires maya "2018ff07";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "ECA80CAE-479C-5D07-23D7-C891CA5517FE";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -28.897453236247944 25.730023180771433 12.266241151333132 ;
-	setAttr ".r" -type "double3" -39.338352731489707 652.99999999985801 -8.1400084343917376e-15 ;
+	setAttr ".t" -type "double3" -6.425340778049037 35.684245643332545 18.245744083462306 ;
+	setAttr ".r" -type "double3" -61.538352731006931 700.59999999968977 -1.6860041765696593e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "CD4F7053-4BDF-35AC-DF6C-A9B009FDEE38";
 	setAttr -k off ".v" no;
