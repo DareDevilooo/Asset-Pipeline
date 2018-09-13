@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff07 scene
 //Name: WoodCar.0005.ma
-//Last modified: Wed, Sep 12, 2018 08:31:30 PM
+//Last modified: Wed, Sep 12, 2018 08:34:13 PM
 //Codeset: 1252
 requires maya "2018ff07";
 currentUnit -l centimeter -a degree -t film;
@@ -13,15 +13,15 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "62260C00-4AF3-952F-6476-5E8D32D933FE";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 37.220504052016558 52.164142295705751 -41.725519336812219 ;
-	setAttr ".r" -type "double3" -395.13835272233808 4818.6000000068261 0 ;
+	setAttr ".t" -type "double3" -22.803588643434278 20.94443054256481 -36.431907818381461 ;
+	setAttr ".r" -type "double3" -370.53835272145409 5612.2000000001435 0 ;
 	setAttr ".rp" -type "double3" -1.1102230246251565e-16 0 0 ;
 	setAttr ".rpt" -type "double3" -6.1358303833814484e-16 1.6849060833368959e-16 3.9641140309291343e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "B39BEA09-4512-1D12-2C6B-0DAB4C0169C2";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 68.800340577361609;
+	setAttr ".coi" 43.682607278646842;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -1390,11 +1390,25 @@ createNode mesh -n "pCylinderShape5" -p "pCylinder5";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
+	setAttr ".pv" -type "double2" 0.44444447755813599 0.6848355233669281 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
 	setAttr ".cdvm[0]"  0 1 1;
+	setAttr -s 16 ".pt";
+	setAttr ".pt[62]" -type "float3" 3.8743019e-06 2.9802322e-08 -6.5565109e-07 ;
+	setAttr ".pt[63]" -type "float3" 1.9669533e-06 2.9802322e-08 6.5565109e-07 ;
+	setAttr ".pt[64]" -type "float3" 3.8743019e-06 5.2154064e-08 -6.5565109e-07 ;
+	setAttr ".pt[65]" -type "float3" 1.9669533e-06 5.2154064e-08 6.5565109e-07 ;
+	setAttr ".pt[66]" -type "float3" 5.9604645e-07 -1.1175871e-08 0 ;
+	setAttr ".pt[67]" -type "float3" 4.7683716e-07 -1.1175871e-08 0 ;
+	setAttr ".pt[68]" -type "float3" 5.9604645e-07 7.4505806e-09 0 ;
+	setAttr ".pt[69]" -type "float3" 4.7683716e-07 7.4505806e-09 0 ;
+	setAttr ".pt[70]" -type "float3" -4.7683716e-07 -1.1175871e-08 -2.6226044e-06 ;
+	setAttr ".pt[71]" -type "float3" 8.3446503e-07 -1.1175871e-08 0 ;
+	setAttr ".pt[72]" -type "float3" -4.7683716e-07 7.4505806e-09 -2.6226044e-06 ;
+	setAttr ".pt[73]" -type "float3" 8.3446503e-07 7.4505806e-09 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode lightLinker -s -n "lightLinker1";
 	rename -uid "BF7ED3ED-4738-C6B7-913A-5CA4F4705B3B";
@@ -6755,6 +6769,34 @@ createNode deleteComponent -n "deleteComponent21";
 createNode deleteComponent -n "deleteComponent22";
 	rename -uid "0A543073-49EE-0A1D-754A-2D97C69CFC63";
 	setAttr ".dc" -type "componentList" 4 "vtx[18:23]" "vtx[34:35]" "vtx[38:43]" "vtx[46:51]";
+createNode polySplit -n "polySplit31";
+	rename -uid "9CD73CDC-4ED7-8218-8D1D-A89E10FD6129";
+	setAttr -s 16 ".e[0:15]"  0.97544003 0.97544003 0.97544003 0.97544003
+		 0.97544003 0.97544003 0.97544003 0.97544003 0.97544003 0.97544003 0.97544003 0.97544003
+		 0.97544003 0.97544003 0.97544003 0.97544003;
+	setAttr -s 16 ".d[0:15]"  -2147483562 -2147483561 -2147483560 -2147483559 -2147483558 -2147483557 
+		-2147483612 -2147483611 -2147483610 -2147483609 -2147483570 -2147483569 -2147483568 -2147483567 -2147483566 -2147483565;
+	setAttr ".sma" 180;
+	setAttr ".m2015" yes;
+createNode deleteComponent -n "deleteComponent23";
+	rename -uid "2F83DA9C-45E7-B5CE-CF8F-56A8E05364B8";
+	setAttr ".dc" -type "componentList" 3 "vtx[18:35]" "vtx[37:39]" "vtx[46:61]";
+createNode deleteComponent -n "deleteComponent24";
+	rename -uid "6B3CFBE7-48DC-A390-AF02-C298FBF8A4DF";
+	setAttr ".dc" -type "componentList" 1 "e[117:131]";
+createNode deleteComponent -n "deleteComponent25";
+	rename -uid "F53BEA6F-4DEC-DBA8-4F14-BCADC1B36554";
+	setAttr ".dc" -type "componentList" 3 "vtx[18:35]" "vtx[37]" "vtx[44:59]";
+createNode polySplit -n "polySplit32";
+	rename -uid "0C3FBE6E-465A-574B-F21A-93852084CCFF";
+	setAttr -s 19 ".e[0:18]"  0.98082501 0.98082501 0.98082501 0.98082501
+		 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501
+		 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501 0.98082501;
+	setAttr -s 19 ".d[0:18]"  -2147483576 -2147483548 -2147483549 -2147483550 -2147483551 -2147483552 
+		-2147483553 -2147483554 -2147483555 -2147483556 -2147483557 -2147483558 -2147483559 -2147483560 -2147483561 -2147483562 -2147483563 -2147483575 
+		-2147483576;
+	setAttr ".sma" 180;
+	setAttr ".m2015" yes;
 select -ne :time1;
 	setAttr ".o" 1;
 	setAttr ".unw" 1;
@@ -6888,7 +6930,7 @@ connectAttr ":initialShadingGroup.mwc" "|polySurface9|polySurface7Shape.iog.og[0
 		;
 connectAttr "polyMergeVert19.out" "pTorusShape1.i";
 connectAttr "polyTweakUV19.uvtk[0]" "pTorusShape1.uvst[0].uvtw";
-connectAttr "deleteComponent22.og" "pCylinderShape5.i";
+connectAttr "polySplit32.out" "pCylinderShape5.i";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
@@ -7390,6 +7432,11 @@ connectAttr "polyTweakUV19.out" "polyTweak47.ip";
 connectAttr "polyCylinder5.out" "polySplit30.ip";
 connectAttr "polySplit30.out" "deleteComponent21.ig";
 connectAttr "deleteComponent21.og" "deleteComponent22.ig";
+connectAttr "deleteComponent22.og" "polySplit31.ip";
+connectAttr "polySplit31.out" "deleteComponent23.ig";
+connectAttr "deleteComponent23.og" "deleteComponent24.ig";
+connectAttr "deleteComponent24.og" "deleteComponent25.ig";
+connectAttr "deleteComponent25.og" "polySplit32.ip";
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "polySurfaceShape1.iog.og[0]" ":initialShadingGroup.dsm" -na;
 connectAttr "polySurfaceShape1.ciog.cog[0]" ":initialShadingGroup.dsm" -na;
