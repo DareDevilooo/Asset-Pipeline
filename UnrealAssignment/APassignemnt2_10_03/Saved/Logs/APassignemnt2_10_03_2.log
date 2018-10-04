@@ -2761,3 +2761,155 @@ LogInit: Object subsystem initialized
 [2018.10.04-01.22.33:916][629]LogSavePackage: Save=20.12ms
 [2018.10.04-01.22.33:916][629]LogSavePackage: Moving '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/MaterialLevel5A52C1A444F177ADEE2D1099D9F3D195.tmp' to '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap'
 [2018.10.04-01.22.33:917][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap
+[2018.10.04-01.22.48:613][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.25.59:860][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.26.04:641][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.04-01.26.05:130][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CenterStreetBlockTest004)
+[2018.10.04-01.26.05:788][156]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.04-01.26.12:319][938]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.04-01.26.30:047][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.31.29:537][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UNrealMaterial/logo.tga)
+[2018.10.04-01.31.29:621][ 27]LogTexture: Display: Building textures: logo (AutoDXT, 2048X2048)
+[2018.10.04-01.32.46:080][116]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.32.46:093][116]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.32.46:093][116]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.32.46:093][116]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.32.46:093][116]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.32.46:095][116]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.10.04-01.32.46:123][116]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.32.46:653][173]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.04-01.32.46:706][179]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.04-01.32.46:706][179]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.32.46:723][181]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.32.46:947][199]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.32.46:954][200]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.32.46:977][202]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.04-01.32.46:986][203]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.04-01.32.47:134][216]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-01.32.47:169][220]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.04-01.32.47:186][222]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.04-01.32.47:205][224]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.04-01.32.47:296][233]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.32.47:307][233]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.32.47:412][239]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.32.47:543][252]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.32.47:552][253]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.32.47:571][255]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.04-01.32.47:634][262]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.04-01.32.47:744][272]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-01.32.47:764][274]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.04-01.32.47:773][275]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.04-01.32.47:815][280]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.04-01.32.47:926][290]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.04-01.32.48:047][300]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.04-01.32.48:142][310]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.04-01.32.48:162][312]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.04-01.32.48:287][324]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.04-01.32.48:360][331]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-01.32.48:596][357]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.10.04-01.32.48:596][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.10.04-01.32.48:596][357]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.10.04-01.32.48:596][357]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.04-01.32.48:596][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.04-01.32.57:673][441]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodBlock_AP_Inst001, compiling. 
+[2018.10.04-01.32.57:841][441]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-01.32.57:843][441]TextureStreamingBuild: Display: Compiling optional shaders took 0.172 seconds.
+[2018.10.04-01.33.13:463][256]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.13:478][256]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.33.13:478][256]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.33.13:478][256]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.33.13:478][256]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.33.13:480][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.10.04-01.33.13:507][256]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.13:518][256]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.13:666][272]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.04-01.33.13:889][297]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.04-01.33.14:040][310]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.33.14:065][313]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.33.14:082][315]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.33.14:091][316]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.33.14:272][334]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.04-01.33.14:280][335]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.04-01.33.14:316][339]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-01.33.14:325][340]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.04-01.33.14:454][351]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.04-01.33.14:463][352]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.04-01.33.14:486][354]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.04-01.33.14:674][369]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.04-01.33.14:707][372]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.04-01.33.14:828][381]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.04-01.33.14:869][384]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.04-01.33.14:926][390]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-01.33.15:210][418]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.10.04-01.33.15:210][418]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.10.04-01.33.15:210][418]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.10.04-01.33.15:210][418]MaterialEditorStats: Texture samplers: 5/16
+[2018.10.04-01.33.15:210][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.04-01.33.15:906][501]LogMaterialEditor: Saving and Compiling material M_MasterWoodBlock_AP
+[2018.10.04-01.33.16:346][501]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.16:372][501]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-01.33.16:372][501]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-01.33.16:373][501]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-01.33.16:373][501]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-01.33.16:385][501]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.16:401][501]LogMaterial: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.16:462][501]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MasterWoodBlock_AP, compiling. 
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.04-01.33.17:367][501]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.04-01.33.17:368][501]TextureStreamingBuild: Display: Compiling optional shaders took 0.911 seconds.
+[2018.10.04-01.33.19:283][501]LogSavePackage: Save=18.00ms
+[2018.10.04-01.33.19:283][501]LogSavePackage: Moving '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/M_MasterWoodBlock_APB34859FB4FD0143FA6899D9B449CFF47.tmp' to '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/woodBlocks/M_MasterWoodBlock_AP.uasset'
+[2018.10.04-01.33.19:287][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/woodBlocks/M_MasterWoodBlock_AP.uasset
+[2018.10.04-01.33.19:314][501]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.10.04-01.33.19:314][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.10.04-01.33.19:314][501]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.10.04-01.33.19:314][501]MaterialEditorStats: Texture samplers: 6/16
+[2018.10.04-01.33.19:314][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.04-01.33.30:094][746]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.04-01.33.33:159][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.33.37:898][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.33.50:656][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.33.54:151][253]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.04-01.33.54:292][253]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodBlock_AP_Inst001, compiling. 
+[2018.10.04-01.33.54:743][253]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-01.33.54:744][253]TextureStreamingBuild: Display: Compiling optional shaders took 0.455 seconds.
+[2018.10.04-01.33.56:242][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.04-01.33.58:082][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.34.26:676][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MaterialLevel' took 0.009
+[2018.10.04-01.34.26:678][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/woodBlocks/M_WoodBlock_AP_Inst001] ([1] browsable assets)...
+[2018.10.04-01.34.26:699][246]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/woodBlocks/M_WoodBlock_AP_Inst001.M_WoodBlock_AP_Inst001]
+[2018.10.04-01.34.26:699][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/woodBlocks/M_WoodBlock_AP_Inst001]
+[2018.10.04-01.34.26:714][246]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodBlock_AP_Inst001, compiling. 
+[2018.10.04-01.34.27:177][246]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-01.34.27:178][246]TextureStreamingBuild: Display: Compiling optional shaders took 0.469 seconds.
+[2018.10.04-01.34.27:210][246]LogSavePackage: Save=15.49ms
+[2018.10.04-01.34.27:210][246]LogSavePackage: Moving '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/M_WoodBlock_AP_Inst001_Auto2EDED901443192CCF4EE1C589B6160CB2.tmp' to '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/Autosaves/Game/woodBlocks/M_WoodBlock_AP_Inst001_Auto2.uasset'
+[2018.10.04-01.34.27:212][246]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/Autosaves/Game/woodBlocks/M_WoodBlock_AP_Inst001_Auto2.uasset
+[2018.10.04-01.34.27:212][246]LogFileHelpers: Auto-saving content packages took 0.535
+[2018.10.04-01.36.20:811][982]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UNrealMaterial/LOGO2.tga)
+[2018.10.04-01.36.20:896][982]LogTexture: Display: Building textures: LOGO2 (AutoDXT, 2048X2048)
+[2018.10.04-01.36.30:381][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.36.45:640][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.36.45:995][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.36.46:586][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.36.51:016][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.36.51:841][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.36.51:888][620]LogSavePackage: Save=22.09ms
+[2018.10.04-01.36.51:888][620]LogSavePackage: Moving '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/MaterialLevel9378F0DC48A038B925A7BC9295565C0B.tmp' to '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap'
+[2018.10.04-01.36.51:889][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap
+[2018.10.04-01.36.52:906][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.04-01.37.03:095][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
