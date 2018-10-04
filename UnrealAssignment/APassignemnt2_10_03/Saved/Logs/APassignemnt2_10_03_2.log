@@ -2757,3 +2757,7 @@ LogInit: Object subsystem initialized
 [2018.10.04-01.20.49:110][256]LogFileHelpers: Saving map 'MaterialLevel' took 0.104
 [2018.10.04-01.21.10:247][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.10.04-01.21.27:441][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.22.31:508][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-01.22.33:916][629]LogSavePackage: Save=20.12ms
+[2018.10.04-01.22.33:916][629]LogSavePackage: Moving '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Saved/MaterialLevel5A52C1A444F177ADEE2D1099D9F3D195.tmp' to '../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap'
+[2018.10.04-01.22.33:917][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1079731/Documents/GitHub/Asset-Pipeline/UnrealAssignment/APassignemnt2_10_03/Content/MaterialLevel.umap
