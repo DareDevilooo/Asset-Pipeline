@@ -3230,3 +3230,100 @@ LogInit: Object subsystem initialized
 [2018.10.04-01.39.04:272][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2018.10.04-01.39.04:774][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2018.10.04-01.39.05:274][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.05:775][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.06:276][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.06:777][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.07:277][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.07:778][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.08:279][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.08:779][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.09:280][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.09:781][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.10:281][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.10:782][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.11:283][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.11:783][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.12:284][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.12:785][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.13:285][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.13:786][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.14:287][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.14:787][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.15:288][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.15:789][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.16:289][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.16:790][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.17:290][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.17:791][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.18:292][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.18:792][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.19:293][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.19:794][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.20:294][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.20:795][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.21:296][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.21:796][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.22:297][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.22:798][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.23:298][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.23:799][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.24:300][555]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25d76ccbfb8 [can pipeline])
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.97.182) port 443 (#13))
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 3 (upload completely sent off: 1618 out of 1618 bytes)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 6 (Closing connection 13)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9CE80CD3-4927-9110-823C-F484FF36A4FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=d1117c9c422ec51a926f24b3a019444d%7C18420647c6874b83bd220352b48ebc28%7C780c3427-c555-4217-9f7d-feeee12fbce9&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 9 (  Trying 52.1.25.9...)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.1.25.9) port 443 (#14))
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 13 (SSL re-using session ID)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 22 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 23 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 24 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 25 (ALPN, server did not agree to a protocol)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 26 (old SSL session ID is stale, removing)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 27 (Server certificate:)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 28 (	 subject: CN=*.ol.epicgames.com)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 29 (	 start date: Mar 12 00:00:00 2018 GMT)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 30 (	 expire date: Apr 12 12:00:00 2019 GMT)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 31 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 32 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 33 (	 SSL certificate verify ok.)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 34 (upload completely sent off: 1618 out of 1618 bytes)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 35 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.10.04-01.39.24:800][555]LogHttp: Warning: 0000025D2D5ED480: libcurl info message cache 36 (Closing connection 14)
+[2018.10.04-01.39.24:802][555]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.04-01.39.24:803][555]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.04-01.39.24:807][555]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.04-01.39.24:808][555]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.04-01.39.24:808][555]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.04-01.39.24:814][555]LogExit: Exiting.
+[2018.10.04-01.39.24:826][555]Log file closed, 10/03/18 19:39:24
