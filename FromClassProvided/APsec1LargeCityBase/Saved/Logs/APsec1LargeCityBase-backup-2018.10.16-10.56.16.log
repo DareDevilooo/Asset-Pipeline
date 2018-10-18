@@ -1,0 +1,446 @@
+﻿Log file open, 10/15/18 12:13:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.346486
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.137s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.15-18.13.47:553][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-18.13.47:553][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.15-18.13.47:572][  0]LogHAL: Display: Platform has ~ 16 GB [17101164544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.15-18.13.47:572][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.15-18.13.47:572][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.15-18.13.47:573][  0]LogInit: Computer: DESKTOP-B8CF7E6
+[2018.10.15-18.13.47:573][  0]LogInit: User: longf
+[2018.10.15-18.13.47:573][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.15-18.13.47:573][  0]LogInit: High frequency timer resolution =2.062500 MHz
+[2018.10.15-18.13.47:573][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.15-18.13.47:573][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.15-18.13.47:573][  0]LogMemory: Process Physical Memory: 99.50 MB used, 99.50 MB peak
+[2018.10.15-18.13.47:573][  0]LogMemory: Process Virtual Memory: 91.14 MB used, 91.14 MB peak
+[2018.10.15-18.13.47:573][  0]LogMemory: Physical Memory: 8855.53 MB used,  7453.41 MB free, 16308.94 MB total
+[2018.10.15-18.13.47:573][  0]LogMemory: Virtual Memory: 4644.93 MB used,  7453.41 MB free, 134217728.00 MB total
+[2018.10.15-18.13.47:590][  0]LogInit: Using OS detected language (en-US).
+[2018.10.15-18.13.47:590][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.15-18.13.47:591][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.15-18.13.48:007][  0]LogStreaming: Display: Took  0.417s to InitEngineTextLocalization.
+[2018.10.15-18.13.48:007][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.15-18.13.48:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.15-18.13.48:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.15-18.13.48:334][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.15-18.13.48:334][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.15-18.13.48:357][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.10.15-18.13.48:357][  0]LogD3D11RHI:       128/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.15-18.13.48:360][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.15-18.13.48:360][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.15-18.13.48:360][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.15-18.13.48:369][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.15-18.13.48:369][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.15-18.13.48:369][  0]LogWindows: EnumDisplayDevices:
+[2018.10.15-18.13.48:369][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.10.15-18.13.48:369][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.10.15-18.13.48:370][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.10.15-18.13.48:370][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.10.15-18.13.48:370][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.10.15-18.13.48:370][  0]LogD3D11RHI:   Driver Version: 24.20.100.6136 (internal:24.20.100.6136, unified:24.20.100.6136)
+[2018.10.15-18.13.48:370][  0]LogD3D11RHI:      Driver Date: 5-26-2018
+[2018.10.15-18.13.48:370][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.10.15-18.13.48:384][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.15-18.13.48:392][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.10.15-18.13.48:393][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/464/).
+[2018.10.15-18.13.48:393][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/longf/AppData/Local/Temp/UnrealShaderWorkingDir/633520B4430A638C4D06C08EB5C44F94/'.
+[2018.10.15-18.13.48:764][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.15-18.13.48:782][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.15-18.13.48:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.15-18.13.48:823][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.15-18.13.48:845][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.15-18.13.48:862][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.15-18.13.48:884][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.15-18.13.48:907][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.15-18.13.48:917][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-18.13.49:033][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.15-18.13.49:103][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-18.13.49:103][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-18.13.49:139][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-18.13.49:139][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-18.13.49:159][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.15-18.13.49:180][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.15-18.13.49:196][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.15-18.13.49:212][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.15-18.13.49:227][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.15-18.13.49:227][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.15-18.13.49:313][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.15-18.13.49:313][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.15-18.13.49:313][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.15-18.13.50:145][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.15-18.13.50:204][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-18.13.50:205][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.15-18.13.50:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.15-18.13.50:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.15-18.13.50:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.15-18.13.50:205][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.15-18.13.50:219][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.15-18.13.50:231][  0]LogDerivedDataCache: Using Local data cache path C:/Users/longf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.15-18.13.50:231][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.15-18.13.50:231][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.15-18.13.50:251][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.15-18.13.50:252][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.15-18.13.50:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.15-18.13.50:331][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.10.15-18.13.50:665][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-18.13.50:806][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.15-18.13.50:810][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.15-18.13.50:810][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.15-18.13.50:810][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.15-18.13.50:810][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.15-18.13.50:834][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.10.15-18.13.51:404][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.127622 seconds
+[2018.10.15-18.13.51:413][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.15-18.13.51:413][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.15-18.13.51:413][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.15-18.13.52:346][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.15-18.13.52:360][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.15-18.13.52:511][  0]SourceControl: Source control is disabled
+[2018.10.15-18.13.52:511][  0]SourceControl: Source control is disabled
+[2018.10.15-18.13.52:512][  0]SourceControl: Source control is disabled
+[2018.10.15-18.13.52:513][  0]SourceControl: Source control is disabled
+[2018.10.15-18.13.52:682][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.15-18.13.52:734][  0]LogOcInput: OculusInput pre-init called
+[2018.10.15-18.13.52:799][  0]LogEngine: Initializing Engine...
+[2018.10.15-18.13.52:799][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.15-18.13.52:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-18.13.52:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-18.13.52:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-18.13.52:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-18.13.53:040][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.15-18.13.53:053][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.15-18.13.53:062][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.15-18.13.53:653][  0]LogInit: FAudioDevice initialized.
+[2018.10.15-18.13.53:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.15-18.13.53:716][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-18.13.53:720][  0]LogInit: Texture streaming: Enabled
+[2018.10.15-18.13.53:738][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.15-18.13.53:760][  0]LogInit: Transaction tracking system initialized
+[2018.10.15-18.13.53:786][  0]BlueprintLog: New page: Editor Load
+[2018.10.15-18.13.53:891][  0]LocalizationService: Localization service is disabled
+[2018.10.15-18.13.54:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.15-18.13.54:172][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.15-18.13.54:173][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.15-18.13.54:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-18.13.54:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-18.13.54:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-18.13.54:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-18.13.54:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/' took 0.02s
+[2018.10.15-18.13.54:318][  0]SourceControl: Source control is disabled
+[2018.10.15-18.13.54:318][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.15-18.13.54:319][  0]LightingResults: New page: Lighting Build
+[2018.10.15-18.13.54:324][  0]MapCheck: New page: Map Check
+[2018.10.15-18.13.54:324][  0]LightingResults: New page: Lighting Build
+[2018.10.15-18.13.54:592][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.15-18.13.54:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.15-18.13.54:628][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.15-18.13.54:715][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.422ms to complete.
+[2018.10.15-18.13.54:715][  0]LogFileHelpers: Loading map 'Template_Default' took 0.397
+[2018.10.15-18.13.54:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.13.54:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.13.54:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.13.54:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-18.13.54:945][  0]LogCollectionManager: Loaded 0 collections in 0.002305 seconds
+[2018.10.15-18.13.55:002][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.10.15-18.13.55:002][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Developers/longf/Collections/' took 0.01s
+[2018.10.15-18.13.55:002][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.10.15-18.13.55:002][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.15-18.13.55:013][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2572 classes and 603 folders.
+[2018.10.15-18.13.55:023][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.13.55:478][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.13.55:485][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.15-18.13.55:566][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.15-18.13.55:568][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.15-18.13.55:586][  0]LogSlate: Took 0.010071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.15-18.13.55:785][  0]LogRenderer: Reallocating scene render targets to support 804x608 Format 10 NumSamples 1 (Frame:1).
+[2018.10.15-18.13.56:816][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-18.13.56:816][  0]LogLoad: (Engine Initialization) Total time: 11.41 seconds
+[2018.10.15-18.13.56:816][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.15-18.13.56:827][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.15-18.13.56:849][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.15-18.13.56:906][  1]LogAssetRegistry: Asset discovery search completed in 6.5974 seconds
+[2018.10.15-18.13.56:910][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.15-18.13.56:910][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.10.15-18.14.02:851][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.14.06:170][164]LogSlate: Took 0.012675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.15-18.14.06:767][164]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.15-18.14.06:778][164]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.15-18.14.06:822][164]Cmd: MAP LOAD FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.15-18.14.06:822][164]LightingResults: New page: Lighting Build
+[2018.10.15-18.14.06:822][164]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.15-18.14.06:823][164]MapCheck: New page: Map Check
+[2018.10.15-18.14.06:823][164]LightingResults: New page: Lighting Build
+[2018.10.15-18.14.06:933][164]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.15-18.14.06:987][164]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.15-18.14.07:080][164]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.953ms to complete.
+[2018.10.15-18.14.07:080][164]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.259
+[2018.10.15-18.14.12:922][266]LogRenderer: Reallocating scene render targets to support 804x624 Format 10 NumSamples 1 (Frame:113).
+[2018.10.15-18.14.13:028][267]LogRenderer: Reallocating scene render targets to support 804x628 Format 10 NumSamples 1 (Frame:115).
+[2018.10.15-18.14.32:514][675]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.14.43:990][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.14.43:991][968]Can't find target actor or component.
+[2018.10.15-18.14.46:406][ 32]LogEditorViewport: Clicking Background
+[2018.10.15-18.14.49:343][110]LogEditorViewport: Clicking Background
+[2018.10.15-18.14.50:829][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.14.51:884][165]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.14.59:085][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase79)
+[2018.10.15-18.15.08:430][507]LogEditorViewport: Clicking Background
+[2018.10.15-18.15.13:409][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.15.28:529][ 30]Cmd: TRANSACTION UNDO
+[2018.10.15-18.15.28:530][ 30]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.15-18.16.07:558][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.16.16:328][ 61]LogEditorViewport: Clicking Background
+[2018.10.15-18.16.17:989][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-18.16.25:506][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.16.33:508][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-18.16.38:008][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-18.16.53:444][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-18.17.14:401][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.15-18.17.16:701][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock5)
+[2018.10.15-18.17.59:751][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.18.10:241][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.18.23:519][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner2)
+[2018.10.15-18.18.52:812][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.19.01:893][666]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.15-18.19.38:054][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase013)
+[2018.10.15-18.20.24:391][887]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.15-18.20.26:512][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner9)
+[2018.10.15-18.20.32:997][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.20.42:957][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner7)
+[2018.10.15-18.20.46:060][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.20.52:661][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock37)
+[2018.10.15-18.20.57:323][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner7)
+[2018.10.15-18.21.00:050][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.21.13:913][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner9)
+[2018.10.15-18.21.16:230][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock37)
+[2018.10.15-18.21.29:360][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.21.37:462][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.15-18.21.52:255][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor001)
+[2018.10.15-18.21.58:705][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase41)
+[2018.10.15-18.22.06:826][274]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.22.08:094][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor001)
+[2018.10.15-18.22.09:327][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.15-18.22.55:850][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.24.08:200][257]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto1EFFF8870416287F82FCBDD84D83949D5.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2018.10.15-18.24.08:205][257]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.403
+[2018.10.15-18.24.08:205][257]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.403
+[2018.10.15-18.25.03:284][695]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge6D32FBC04AE77C6A4BFBB4B86620A5CC.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.15-18.25.03:325][695]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.691
+[2018.10.15-18.25.09:183][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.57.43:475][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase024)
+[2018.10.15-18.57.45:994][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.57.57:325][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock014)
+[2018.10.15-18.58.20:366][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-18.58.27:261][841]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1.M_StreetBlockStipes_AP_Inst1
+[2018.10.15-18.58.28:015][841]LogRenderer: Reallocating scene render targets to support 804x720 Format 10 NumSamples 1 (Frame:1).
+[2018.10.15-18.58.37:296][  3]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/woodBlocksContent/streetLines001.streetLines001
+[2018.10.15-18.58.37:357][  3]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.10.15-18.58.47:457][161]LogSlate: Window 'streetLines001' being destroyed
+[2018.10.15-18.58.47:506][161]LogSlate: Window 'streetLines001' being destroyed
+[2018.10.15-18.58.47:618][161]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_StreetBlockStipes_AP_Inst1, compiling. 
+[2018.10.15-18.58.48:435][161]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.15-18.58.48:439][161]TextureStreamingBuild: Display: Compiling optional shaders took 0.837 seconds.
+[2018.10.15-18.59.16:423][302]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto268021E4246DE1059E861CA915126D9CA.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto2.umap'
+[2018.10.15-18.59.16:429][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.257
+[2018.10.15-18.59.16:429][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2018.10.15-18.59.16:432][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1] ([1] browsable assets)...
+[2018.10.15-18.59.16:467][302]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1.M_StreetBlockStipes_AP_Inst1]
+[2018.10.15-18.59.16:467][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1]
+[2018.10.15-18.59.16:511][302]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_StreetBlockStipes_AP_Inst1_Aut3A0081A741BD5A5524C3D99376DAD7EE.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1_Auto2.uasset'
+[2018.10.15-18.59.16:513][302]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.10.15-19.02.15:455][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/images/streetLines003.tga)
+[2018.10.15-19.02.15:474][868]LogTexture: Display: Building textures: streetLines003 (AutoDXT, 1024X1024)
+[2018.10.15-19.02.46:109][454]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst2.M_StreetBlockStipes_AP_Inst2
+[2018.10.15-19.03.06:319][517]LogSlate: Window 'Save Asset As' being destroyed
+[2018.10.15-19.03.21:793][758]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_StreetBlockStipes_AP_Inst2, compiling. 
+[2018.10.15-19.03.22:319][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.15-19.03.22:320][758]TextureStreamingBuild: Display: Compiling optional shaders took 0.532 seconds.
+[2018.10.15-19.03.22:377][758]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_StreetBlockStipes_AP_Inst2559133994B666BF56E583D839D85599A.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_StreetBlockStipes_AP_Inst2.uasset'
+[2018.10.15-19.03.25:721][824]LogSlate: Window 'M_StreetBlockStipes_AP_Inst2' being destroyed
+[2018.10.15-19.03.25:770][824]LogSlate: Window 'M_StreetBlockStipes_AP_Inst2' being destroyed
+[2018.10.15-19.04.05:895][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase10)
+[2018.10.15-19.04.13:339][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-19.04.18:596][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase024)
+[2018.10.15-19.04.20:200][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-19.04.22:970][250]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.15-19.06.15:057][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-19.09.17:653][443]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto3613025AA405C59AF7E16328C8C3EC8F6.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto3.umap'
+[2018.10.15-19.09.17:656][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.240
+[2018.10.15-19.09.17:656][443]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2018.10.15-19.09.17:659][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/woodBlocksContent/streetLines003] ([1] browsable assets)...
+[2018.10.15-19.09.17:665][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/woodBlocksContent/streetLines003.streetLines003]
+[2018.10.15-19.09.17:665][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/woodBlocksContent/streetLines003]
+[2018.10.15-19.09.17:678][443]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetLines003_Auto3C4027D0D443C7315A97156AB1605FBD0.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/woodBlocksContent/streetLines003_Auto3.uasset'
+[2018.10.15-19.09.17:679][443]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.10.15-19.16.38:394][ 43]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge8D517950423AF43792EBD5AA09DBF97C.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.15-19.16.38:428][ 43]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.341
+[2018.10.15-19.16.38:472][ 43]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_StreetBlockStipes_AP_Inst1038331AD4E59EFEBFB286280D8F397F9.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_StreetBlockStipes_AP_Inst1.uasset'
+[2018.10.15-19.16.38:533][ 43]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetLines003FA3536A943128B78AC875496719E8B60.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/streetLines003.uasset'

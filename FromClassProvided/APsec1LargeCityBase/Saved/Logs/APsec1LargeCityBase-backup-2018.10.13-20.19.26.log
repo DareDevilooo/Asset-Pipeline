@@ -1,0 +1,1675 @@
+﻿Log file open, 10/13/18 16:41:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.328711
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.161s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.13-22.41.46:578][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.13-22.41.46:578][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.13-22.41.46:598][  0]LogHAL: Display: Platform has ~ 16 GB [17101164544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.13-22.41.46:598][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.13-22.41.46:598][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.13-22.41.46:598][  0]LogInit: Computer: DESKTOP-B8CF7E6
+[2018.10.13-22.41.46:598][  0]LogInit: User: longf
+[2018.10.13-22.41.46:598][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.13-22.41.46:598][  0]LogInit: High frequency timer resolution =2.062500 MHz
+[2018.10.13-22.41.46:599][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.13-22.41.46:599][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.13-22.41.46:599][  0]LogMemory: Process Physical Memory: 99.43 MB used, 99.43 MB peak
+[2018.10.13-22.41.46:599][  0]LogMemory: Process Virtual Memory: 91.14 MB used, 91.14 MB peak
+[2018.10.13-22.41.46:599][  0]LogMemory: Physical Memory: 9889.98 MB used,  6418.96 MB free, 16308.94 MB total
+[2018.10.13-22.41.46:599][  0]LogMemory: Virtual Memory: 4644.96 MB used,  6418.96 MB free, 134217728.00 MB total
+[2018.10.13-22.41.46:614][  0]LogInit: Using OS detected language (en-US).
+[2018.10.13-22.41.46:614][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.13-22.41.46:615][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.13-22.41.47:002][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2018.10.13-22.41.47:006][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.13-22.41.47:057][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.13-22.41.47:057][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.13-22.41.47:271][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.13-22.41.47:271][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.13-22.41.47:282][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.10.13-22.41.47:282][  0]LogD3D11RHI:       128/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.13-22.41.47:284][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.13-22.41.47:284][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.13-22.41.47:284][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.13-22.41.47:290][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.13-22.41.47:290][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.13-22.41.47:290][  0]LogWindows: EnumDisplayDevices:
+[2018.10.13-22.41.47:290][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.10.13-22.41.47:291][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.10.13-22.41.47:291][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.10.13-22.41.47:291][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.10.13-22.41.47:291][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.10.13-22.41.47:291][  0]LogD3D11RHI:   Driver Version: 22.20.16.4840 (internal:22.20.16.4840, unified:22.20.16.4840)
+[2018.10.13-22.41.47:291][  0]LogD3D11RHI:      Driver Date: 10-20-2017
+[2018.10.13-22.41.47:291][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.10.13-22.41.47:300][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.13-22.41.47:307][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.10.13-22.41.47:308][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/52784/).
+[2018.10.13-22.41.47:308][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/longf/AppData/Local/Temp/UnrealShaderWorkingDir/714730B04142D6E8B91084AB6A571B3C/'.
+[2018.10.13-22.41.47:544][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.13-22.41.47:557][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.13-22.41.47:570][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.13-22.41.47:583][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.13-22.41.47:596][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.13-22.41.47:608][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.13-22.41.47:621][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.13-22.41.47:634][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.13-22.41.47:640][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.13-22.41.47:707][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.13-22.41.47:767][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.13-22.41.47:767][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.13-22.41.47:796][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.13-22.41.47:796][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.13-22.41.47:808][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.13-22.41.47:820][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.13-22.41.47:832][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.13-22.41.47:844][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.13-22.41.47:853][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.13-22.41.47:853][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.13-22.41.47:912][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.13-22.41.47:912][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.13-22.41.47:912][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.13-22.41.48:538][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.13-22.41.48:592][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.13-22.41.48:605][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.13-22.41.48:617][  0]LogDerivedDataCache: Using Local data cache path C:/Users/longf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.13-22.41.48:617][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.13-22.41.48:617][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.13-22.41.48:637][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.13-22.41.48:638][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.13-22.41.48:639][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.13-22.41.48:712][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.10.13-22.41.49:010][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.13-22.41.49:129][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.13-22.41.49:132][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.13-22.41.49:132][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.13-22.41.49:132][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.13-22.41.49:132][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.13-22.41.49:145][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.10.13-22.41.49:671][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.127598 seconds
+[2018.10.13-22.41.49:678][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.13-22.41.49:678][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.13-22.41.49:678][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.13-22.41.50:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.13-22.41.50:475][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.13-22.41.50:647][  0]SourceControl: Source control is disabled
+[2018.10.13-22.41.50:647][  0]SourceControl: Source control is disabled
+[2018.10.13-22.41.50:649][  0]SourceControl: Source control is disabled
+[2018.10.13-22.41.50:650][  0]SourceControl: Source control is disabled
+[2018.10.13-22.41.50:849][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.13-22.41.50:906][  0]LogOcInput: OculusInput pre-init called
+[2018.10.13-22.41.50:970][  0]LogEngine: Initializing Engine...
+[2018.10.13-22.41.50:971][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.13-22.41.50:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.13-22.41.50:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.13-22.41.50:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.13-22.41.50:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.13-22.41.51:161][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.13-22.41.51:179][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.13-22.41.51:189][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.13-22.41.51:348][  0]LogInit: FAudioDevice initialized.
+[2018.10.13-22.41.51:348][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.13-22.41.51:405][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/longf/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.13-22.41.51:423][  0]LogInit: Texture streaming: Enabled
+[2018.10.13-22.41.51:442][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.13-22.41.51:462][  0]LogInit: Transaction tracking system initialized
+[2018.10.13-22.41.51:489][  0]BlueprintLog: New page: Editor Load
+[2018.10.13-22.41.51:572][  0]LocalizationService: Localization service is disabled
+[2018.10.13-22.41.51:836][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.13-22.41.51:836][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.13-22.41.51:836][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.13-22.41.51:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.13-22.41.51:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.13-22.41.51:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.13-22.41.51:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.13-22.41.51:962][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/' took 0.02s
+[2018.10.13-22.41.51:962][  0]SourceControl: Source control is disabled
+[2018.10.13-22.41.51:962][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.13-22.41.51:962][  0]LightingResults: New page: Lighting Build
+[2018.10.13-22.41.51:966][  0]MapCheck: New page: Map Check
+[2018.10.13-22.41.51:966][  0]LightingResults: New page: Lighting Build
+[2018.10.13-22.41.52:155][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.13-22.41.52:161][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.13-22.41.52:184][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.13-22.41.52:241][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.898ms to complete.
+[2018.10.13-22.41.52:241][  0]LogFileHelpers: Loading map 'Template_Default' took 0.279
+[2018.10.13-22.41.52:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.13-22.41.52:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.13-22.41.52:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.13-22.41.52:463][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.13-22.41.52:477][  0]LogCollectionManager: Loaded 0 collections in 0.002427 seconds
+[2018.10.13-22.41.52:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.10.13-22.41.52:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Developers/longf/Collections/' took 0.01s
+[2018.10.13-22.41.52:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.10.13-22.41.52:528][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.13-22.41.52:539][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
+[2018.10.13-22.41.52:550][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.13-22.41.53:031][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.13-22.41.53:053][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.13-22.41.53:204][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.13-22.41.53:207][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.13-22.41.53:222][  0]LogSlate: Took 0.007796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.13-22.41.53:420][  0]LogRenderer: Reallocating scene render targets to support 804x408 Format 10 NumSamples 1 (Frame:1).
+[2018.10.13-22.41.54:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.13-22.41.54:408][  0]LogLoad: (Engine Initialization) Total time: 9.79 seconds
+[2018.10.13-22.41.54:408][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.13-22.41.54:429][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.13-22.41.54:460][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.13-22.41.54:513][  1]LogAssetRegistry: Asset discovery search completed in 5.8244 seconds
+[2018.10.13-22.41.54:515][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.13-22.41.54:515][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.10.13-22.41.55:532][ 16]LogSlate: Took 0.006878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.13-22.41.57:497][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.41.57:835][ 92]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_WoodBlock002_AP_Inst.M_WoodBlock002_AP_Inst
+[2018.10.13-22.41.58:250][ 92]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_WoodBlock004_AP_Inst.M_WoodBlock004_AP_Inst
+[2018.10.13-22.41.58:725][ 92]LogRenderer: Reallocating scene render targets to support 804x728 Format 10 NumSamples 1 (Frame:1).
+[2018.10.13-22.42.01:415][165]LogSlate: Window 'M_WoodBlock004_AP_Inst' being destroyed
+[2018.10.13-22.42.01:420][165]LogSlate: Window 'M_WoodBlock004_AP_Inst' being destroyed
+[2018.10.13-22.42.08:811][363]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.13-22.42.08:819][363]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.13-22.42.08:845][363]Cmd: MAP LOAD FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.13-22.42.08:845][363]LightingResults: New page: Lighting Build
+[2018.10.13-22.42.08:846][363]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.13-22.42.08:846][363]MapCheck: New page: Map Check
+[2018.10.13-22.42.08:846][363]LightingResults: New page: Lighting Build
+[2018.10.13-22.42.08:932][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.13-22.42.08:979][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.13-22.42.09:055][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.417ms to complete.
+[2018.10.13-22.42.09:056][363]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.211
+[2018.10.13-22.42.19:011][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.42.28:055][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-22.42.34:849][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.43.21:959][825]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx)
+[2018.10.13-22.43.21:995][825]LogFbx: Loading FBX Scene from ../../../../../../Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx
+[2018.10.13-22.43.22:032][825]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-22.43.24:021][825]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.13-22.43.24:224][825]LogMaterial: Display: Missing cached shader map for material M_darkWood_AP, compiling. 
+[2018.10.13-22.43.24:282][825]LogMaterial: Display: Missing cached shader map for material M_lightWood_AP, compiling. 
+[2018.10.13-22.43.24:298][825]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.13-22.43.24:298][825]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.13-22.43.24:298][825]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.13-22.43.24:308][825]LogMaterial: Display: Missing cached shader map for material M_medWood2_AP, compiling. 
+[2018.10.13-22.43.24:329][825]LogMaterial: Display: Missing cached shader map for material M_medWood1_AP, compiling. 
+[2018.10.13-22.43.24:350][825]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.13-22.43.24:350][825]LogFbx: Warning: Triangulating static mesh pCylinder17
+[2018.10.13-22.43.24:547][825]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder17...
+[2018.10.13-22.43.24:843][825]LogStaticMesh: Built static mesh [0.30s] /Game/Tractor/tractor4groupsUVs_pCylinder17.tractor4groupsUVs_pCylinder17
+[2018.10.13-22.43.24:869][825]LogFbx: Warning: Triangulating static mesh pCylinder26
+[2018.10.13-22.43.24:975][825]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder26...
+[2018.10.13-22.43.25:058][825]LogStaticMesh: Built static mesh [0.08s] /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26
+[2018.10.13-22.43.25:080][825]LogFbx: Warning: Triangulating static mesh pCylinder28
+[2018.10.13-22.43.25:251][825]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.13-22.43.25:270][825]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder28...
+[2018.10.13-22.43.25:717][825]LogStaticMesh: Built static mesh [0.45s] /Game/Tractor/tractor4groupsUVs_pCylinder28.tractor4groupsUVs_pCylinder28
+[2018.10.13-22.43.25:739][825]LogFbx: Warning: Triangulating static mesh pCylinder29
+[2018.10.13-22.43.25:929][825]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder29...
+[2018.10.13-22.43.26:147][825]LogStaticMesh: Built static mesh [0.22s] /Game/Tractor/tractor4groupsUVs_pCylinder29.tractor4groupsUVs_pCylinder29
+[2018.10.13-22.43.27:965][853]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.13-22.43.28:025][855]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.13-22.43.32:379][909]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.13-22.43.33:179][918]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.13-22.43.33:836][925]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.13-22.43.52:370][208]LogMetaData: Removing '/Game/Tractor/tractorBase.tractorBase' ref from Metadata '/Game/Tractor/tractor4groupsUVs_pCylinder17.PackageMetaData'
+[2018.10.13-22.43.52:431][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/tractorBase" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractorBase.uasset" SILENT=true
+[2018.10.13-22.43.52:455][208]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractorBase60105BDB4E194FA9DD960080FA6E0074.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractorBase.uasset'
+[2018.10.13-22.44.11:675][455]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26
+[2018.10.13-22.44.12:144][455]LogRenderer: Reallocating scene render targets to support 804x744 Format 10 NumSamples 1 (Frame:1).
+[2018.10.13-22.44.12:144][455]LogSlate: Took 0.006127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.13-22.44.15:551][489]LogSlate: Window 'tractor4groupsUVs_pCylinder26*' being destroyed
+[2018.10.13-22.44.15:652][489]LogSlate: Window 'tractor4groupsUVs_pCylinder26*' being destroyed
+[2018.10.13-22.44.26:143][694]LogMetaData: Removing '/Game/Tractor/tractorLift.tractorLift' ref from Metadata '/Game/Tractor/tractor4groupsUVs_pCylinder26.PackageMetaData'
+[2018.10.13-22.44.26:204][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/tractorLift" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractorLift.uasset" SILENT=true
+[2018.10.13-22.44.26:227][694]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractorLiftC1D35AE844F150BE5F6D9C927F0281A8.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractorLift.uasset'
+[2018.10.13-22.44.35:130][811]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Tractor/tractorBase.tractorBase
+[2018.10.13-22.44.38:615][846]LogSlate: Window 'tractorBase' being destroyed
+[2018.10.13-22.44.38:699][846]LogSlate: Window 'tractorBase' being destroyed
+[2018.10.13-22.44.48:774][973]LogMetaData: Removing '/Game/Tractor/SM_tractorBase.SM_tractorBase' ref from Metadata '/Game/Tractor/tractorBase.PackageMetaData'
+[2018.10.13-22.44.48:829][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/SM_tractorBase" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorBase.uasset" SILENT=true
+[2018.10.13-22.44.48:854][973]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/SM_tractorBase2E6147734B5FF7CD9BC1269616DEBEE8.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorBase.uasset'
+[2018.10.13-22.45.06:842][360]LogMetaData: Removing '/Game/Tractor/SM_tractorLift_AP.SM_tractorLift_AP' ref from Metadata '/Game/Tractor/tractorLift.PackageMetaData'
+[2018.10.13-22.45.06:898][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/SM_tractorLift_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorLift_AP.uasset" SILENT=true
+[2018.10.13-22.45.06:921][360]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/SM_tractorLift_AP9E87EC7847D00B37C96DD38E4B1700AB.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorLift_AP.uasset'
+[2018.10.13-22.45.19:583][561]LogMetaData: Removing '/Game/Tractor/SM_tractorBase_AP.SM_tractorBase_AP' ref from Metadata '/Game/Tractor/SM_tractorBase.PackageMetaData'
+[2018.10.13-22.45.19:645][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/SM_tractorBase_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorBase_AP.uasset" SILENT=true
+[2018.10.13-22.45.19:675][561]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/SM_tractorBase_APAF61AF1E4B698E0F5AF3F5B67D9FEBF5.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/SM_tractorBase_AP.uasset'
+[2018.10.13-22.45.30:605][687]LogActorFactory: Actor Factory created SM_tractorBase_AP
+[2018.10.13-22.45.32:190][719]LogActorFactory: Actor Factory created SM_tractorBase_AP
+[2018.10.13-22.45.43:373][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-22.46.00:870][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.46.14:167][496]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-22.46.51:107][247]Cmd: DELETE
+[2018.10.13-22.46.51:107][247]Cmd: ACTOR DELETE
+[2018.10.13-22.46.51:125][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.13-22.46.51:175][247]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.10.13-22.46.53:905][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.51.01:953][298]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.13-22.51.06:290][338]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx)
+[2018.10.13-22.51.06:302][338]LogFbx: Loading FBX Scene from ../../../../../../Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx
+[2018.10.13-22.51.06:321][338]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-22.51.08:413][338]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.13-22.51.08:469][338]LogMaterial: Display: Missing cached shader map for material M_darkWood_AP, compiling. 
+[2018.10.13-22.51.08:489][338]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.13-22.51.08:489][338]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.13-22.51.08:489][338]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.13-22.51.08:493][338]LogMaterial: Display: Missing cached shader map for material M_lightWood_AP, compiling. 
+[2018.10.13-22.51.08:512][338]LogFbx: Warning: Triangulating static mesh pCylinder28
+[2018.10.13-22.51.08:660][338]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.13-22.51.08:677][338]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder28...
+[2018.10.13-22.51.08:715][338]LogStaticMesh: Built static mesh [0.04s] /Game/Tractor/tractor4groupsUVs_pCylinder28.tractor4groupsUVs_pCylinder28
+[2018.10.13-22.51.08:738][338]LogMaterial: Display: Missing cached shader map for material M_medWood1_AP, compiling. 
+[2018.10.13-22.51.08:753][338]LogFbx: Warning: Triangulating static mesh pCylinder26
+[2018.10.13-22.51.08:850][338]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder26...
+[2018.10.13-22.51.08:888][338]LogStaticMesh: Built static mesh [0.04s] /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26
+[2018.10.13-22.51.08:911][338]LogFbx: Warning: Triangulating static mesh pCylinder29
+[2018.10.13-22.51.09:091][338]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder29...
+[2018.10.13-22.51.09:154][338]LogStaticMesh: Built static mesh [0.06s] /Game/Tractor/tractor4groupsUVs_pCylinder29.tractor4groupsUVs_pCylinder29
+[2018.10.13-22.51.09:186][338]LogMaterial: Display: Missing cached shader map for material M_medWood2_AP, compiling. 
+[2018.10.13-22.51.09:207][338]LogFbx: Warning: Triangulating static mesh pCylinder17
+[2018.10.13-22.51.09:417][338]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.13-22.51.09:443][338]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder17...
+[2018.10.13-22.51.09:520][338]LogStaticMesh: Built static mesh [0.08s] /Game/Tractor/tractor4groupsUVs_pCylinder17.tractor4groupsUVs_pCylinder17
+[2018.10.13-22.51.12:997][391]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.13-22.51.13:092][392]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.13-22.51.17:824][446]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.13-22.51.18:473][454]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.13-22.51.19:271][463]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.13-22.51.28:260][577]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder28
+[2018.10.13-22.51.30:265][624]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder28
+[2018.10.13-22.52.28:718][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.52.29:102][933]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder29
+[2018.10.13-22.52.31:470][987]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder29
+[2018.10.13-22.52.40:665][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.52.41:425][213]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder17
+[2018.10.13-22.52.44:696][288]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder17
+[2018.10.13-22.53.04:602][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder28)
+[2018.10.13-22.53.16:754][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-22.53.23:881][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder28)
+[2018.10.13-22.53.31:703][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.53.56:739][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-22.53.59:985][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-22.54.03:053][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder29)
+[2018.10.13-22.54.06:412][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder29)
+[2018.10.13-22.54.12:937][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-22.54.20:283][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-22.54.25:261][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-22.54.44:623][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.54.44:908][ 99]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder26
+[2018.10.13-22.54.47:667][153]LogActorFactory: Actor Factory created tractor4groupsUVs_pCylinder26
+[2018.10.13-22.55.33:470][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder28)
+[2018.10.13-22.55.37:765][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-22.55.50:738][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-22.55.53:809][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-22.55.55:876][443]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-22.56.06:121][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-22.56.15:206][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge6C7287FE44E92D84B20367A187B2FE44.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.13-22.56.15:255][832]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.466
+[2018.10.13-22.56.15:300][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_darkWood_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_darkWood_AP.uasset" SILENT=true
+[2018.10.13-22.56.15:328][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_darkWood_APD6D6DDD846CBC7D8129516BC822CA07B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_darkWood_AP.uasset'
+[2018.10.13-22.56.15:381][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_lightWood_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_lightWood_AP.uasset" SILENT=true
+[2018.10.13-22.56.15:408][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_lightWood_AP3408F52C454A29F44815CEBE375675C7.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_lightWood_AP.uasset'
+[2018.10.13-22.56.15:484][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder2679D5598542CE56BEECB8268D4AB78E21.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder26.uasset'
+[2018.10.13-22.56.15:531][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_medWood1_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood1_AP.uasset" SILENT=true
+[2018.10.13-22.56.15:557][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_medWood1_APFA3DE6AE4670F0A0020A42B6896B2F16.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood1_AP.uasset'
+[2018.10.13-22.56.15:605][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_medWood2_AP" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood2_AP.uasset" SILENT=true
+[2018.10.13-22.56.15:631][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_medWood2_APE49A7AAB4C0A7B280FA8BE9AABBF3C16.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood2_AP.uasset'
+[2018.10.13-22.56.15:708][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder293AFD22BB4CBDDE218307E3AF2F73CF4A.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder29.uasset'
+[2018.10.13-22.56.15:784][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder178C604B164AAAB3EADD1488BA1AC7518F.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.13-22.56.15:857][832]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder284BC590FF4AEC0DE420BF7BB828380D65.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder28.uasset'
+[2018.10.13-22.57.26:648][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.04.12:250][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.04.21:013][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_darkWood_APold" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_darkWood_APold.uasset" SILENT=true
+[2018.10.13-23.04.21:046][961]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_darkWood_APold914E4BE243B6766779983F8C9E7FC9DF.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_darkWood_APold.uasset'
+[2018.10.13-23.04.21:344][961]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder29CF0850314E5752D5C9D752A140D8E777.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder29.uasset'
+[2018.10.13-23.04.21:386][961]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder17171D565C449DA108DF8745B9DA22E2B7.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.13-23.04.21:428][961]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder284F2EF1C246CC59625CDA7DA727E8EA1E.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder28.uasset'
+[2018.10.13-23.04.32:353][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_lightWood_APold" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_lightWood_APold.uasset" SILENT=true
+[2018.10.13-23.04.32:384][131]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_lightWood_APoldEFA3503545DB0D56B467B59B15E11208.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_lightWood_APold.uasset'
+[2018.10.13-23.04.32:662][131]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder264B36F5BE411EFA5B9385319356046351.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder26.uasset'
+[2018.10.13-23.04.32:689][131]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder29E0D7EBFE495403A7323073A87A4AB772.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder29.uasset'
+[2018.10.13-23.04.32:715][131]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder179B4E20D743D5C5E6339510B3F96FEC5C.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.13-23.04.32:741][131]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder28A246C5164F5047D15B20259905339F3B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder28.uasset'
+[2018.10.13-23.04.39:642][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_medWood1_APold" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood1_APold.uasset" SILENT=true
+[2018.10.13-23.04.39:674][206]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_medWood1_APold1B32700F43CF60B46DC708B1B2F772A4.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood1_APold.uasset'
+[2018.10.13-23.04.39:941][206]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder26236F1DCA4BADD7A829AF6395CD889688.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder26.uasset'
+[2018.10.13-23.04.39:968][206]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder17A097ADA441FB25A9528A01B1EA0340A3.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.13-23.04.49:347][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tractor/M_medWood2_APold" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood2_APold.uasset" SILENT=true
+[2018.10.13-23.04.49:381][308]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_medWood2_APoldF649E2C34D31414582FCA1B6F7881F19.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/M_medWood2_APold.uasset'
+[2018.10.13-23.04.49:682][308]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder17E1EE3E684C0D711F6BEF15B5A4C6AFAE.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.13-23.05.26:896][770]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.13-23.06.02:445][168]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.13-23.08.06:327][614]LogAssetEditorManager: Opening Asset editor for Material /Game/woodBlocksContent/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP
+[2018.10.13-23.08.06:336][614]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.13-23.08.06:576][614]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.10.13-23.08.06:610][614]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.13-23.08.06:610][614]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.13-23.08.06:610][614]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.13-23.08.06:610][614]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.13-23.08.06:644][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.10.13-23.08.06:654][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.10.13-23.08.06:664][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.10.13-23.08.06:677][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.10.13-23.08.06:687][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.13-23.08.06:829][614]LogSlate: Took 0.016358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.13-23.08.08:754][632]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.13-23.08.08:988][632]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.13-23.08.08:988][632]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.13-23.08.08:988][632]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.13-23.08.09:435][632]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.13-23.08.09:615][632]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.13-23.08.09:640][632]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.13-23.08.09:698][632]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.13-23.08.10:044][632]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.13-23.08.10:549][633]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.13-23.08.11:277][642]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.13-23.08.11:413][642]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.13-23.08.11:525][642]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.13-23.08.12:001][643]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.13-23.08.12:038][644]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.13-23.08.12:626][658]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.13-23.08.12:717][660]LogSlate: Window 'M_MasterWoodBlock_AP' being destroyed
+[2018.10.13-23.08.12:752][661]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.13-23.08.12:776][662]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.13-23.08.13:468][677]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.13-23.08.13:617][679]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.13-23.08.14:213][692]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.13-23.08.14:242][693]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.13-23.08.14:453][697]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.13-23.08.15:015][708]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.13-23.08.15:297][714]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.13-23.08.15:787][723]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.08.25:888][856]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2018.10.13-23.08.29:453][906]LogSlate: Window 'M_DarkWood_AP_Inst*' being destroyed
+[2018.10.13-23.09.08:857][966]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.10.00:861][548]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_DarkWood_AP_Inst, compiling. 
+[2018.10.13-23.10.01:518][548]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.10.01:521][548]TextureStreamingBuild: Display: Compiling optional shaders took 0.672 seconds.
+[2018.10.13-23.10.01:588][548]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_DarkWood_AP_InstD001781942F874AACAE7419C62E609C2.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_DarkWood_AP_Inst.uasset'
+[2018.10.13-23.10.19:407][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-23.10.21:527][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.10.54:512][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.11.23:340][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.11.23:684][996]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto18C0751944F858053E631D7AAA3A6C414.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2018.10.13-23.11.23:700][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.299
+[2018.10.13-23.11.23:700][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2018.10.13-23.11.31:583][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.11.53:343][496]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_LightWood_AP_Inst.M_LightWood_AP_Inst
+[2018.10.13-23.12.11:331][122]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.12.29:976][886]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.12.33:712][ 19]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightWood_AP_Inst, compiling. 
+[2018.10.13-23.12.34:445][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.12.34:446][ 19]TextureStreamingBuild: Display: Compiling optional shaders took 0.743 seconds.
+[2018.10.13-23.12.34:509][ 19]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_LightWood_AP_Inst0A9E5AB44717B7A9115FB99138ABA400.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_LightWood_AP_Inst.uasset'
+[2018.10.13-23.13.25:404][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.13.54:928][341]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_MedWood1_AP_Inst.M_MedWood1_AP_Inst
+[2018.10.13-23.14.39:084][591]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.14.40:325][639]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MedWood1_AP_Inst, compiling. 
+[2018.10.13-23.14.40:825][639]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.14.40:826][639]TextureStreamingBuild: Display: Compiling optional shaders took 0.504 seconds.
+[2018.10.13-23.14.40:874][639]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_MedWood1_AP_Inst9DE40D46431B1DB52130F8949B9A7468.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_MedWood1_AP_Inst.uasset'
+[2018.10.13-23.14.45:380][866]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_LightWood_AP_Inst6C4599774AB13C9C28C8E099357D613A.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_LightWood_AP_Inst.uasset'
+[2018.10.13-23.14.47:804][987]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_DarkWood_AP_InstCFCD440F49F535F799FACA8BFAA13580.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_DarkWood_AP_Inst.uasset'
+[2018.10.13-23.15.43:086][962]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_MedWood2_AP_Inst.M_MedWood2_AP_Inst
+[2018.10.13-23.15.56:092][153]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.15.58:020][178]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MedWood2_AP_Inst, compiling. 
+[2018.10.13-23.15.58:662][178]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.15.58:663][178]TextureStreamingBuild: Display: Compiling optional shaders took 0.650 seconds.
+[2018.10.13-23.15.58:725][178]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_MedWood2_AP_Inst7576A4734DB1210E2B34FFA3905AB64B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_MedWood2_AP_Inst.uasset'
+[2018.10.13-23.16.02:989][239]LogSlate: Window 'M_MedWood2_AP_Inst' being destroyed
+[2018.10.13-23.16.03:049][239]LogSlate: Window 'M_MedWood2_AP_Inst' being destroyed
+[2018.10.13-23.16.08:178][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.16.24:807][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder29)
+[2018.10.13-23.16.31:164][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.16.39:492][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.16.40:624][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder28)
+[2018.10.13-23.16.43:138][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.16.48:487][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X24)
+[2018.10.13-23.16.59:796][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder26)
+[2018.10.13-23.17.07:703][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.17.14:919][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.17.38:264][104]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.19.13:755][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.19.14:052][ 26]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2018.10.13-23.19.23:432][439]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.13-23.19.25:041][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_DarkWood_AP_Inst, compiling. 
+[2018.10.13-23.19.25:552][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.13-23.19.25:553][505]TextureStreamingBuild: Display: Compiling optional shaders took 0.516 seconds.
+[2018.10.13-23.19.25:613][505]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/M_DarkWood_AP_Inst09BDBF4B4B1AABF95E3735ADBA6462EA.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/woodBlocksContent/M_DarkWood_AP_Inst.uasset'
+[2018.10.13-23.19.27:292][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.19.39:643][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.21.24:401][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.21.24:688][750]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto243502E8D41C5D31EC88588A86524D7DE.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto2.umap'
+[2018.10.13-23.21.24:694][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.227
+[2018.10.13-23.21.24:694][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.227
+[2018.10.13-23.24.22:359][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.24.25:296][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.24.26:952][  1]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge9FF000314593A523BB9237B869B396BB.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.13-23.24.26:978][  1]LogFileHelpers: Saving map 'StreetSceneLarge' took 1.668
+[2018.10.13-23.24.32:751][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.24.44:904][258]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.13-23.24.50:917][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.27.11:550][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.32.29:838][ 76]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx]
+[2018.10.13-23.32.29:889][ 76]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx
+[2018.10.13-23.32.29:908][ 76]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.32.29:914][ 76]LogFbx: Warning: Triangulating static mesh pCylinder26
+[2018.10.13-23.32.30:005][ 76]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder26...
+[2018.10.13-23.32.30:031][ 76]LogStaticMesh: Built static mesh [0.03s] /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26
+[2018.10.13-23.32.32:310][ 76]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.10.13-23.32.32:318][ 76]LogEditorFactories: -- imported successfully
+[2018.10.13-23.32.38:758][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder26)
+[2018.10.13-23.32.49:557][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder26)
+[2018.10.13-23.33.01:053][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.33.08:754][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X24)
+[2018.10.13-23.33.25:500][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.34.25:719][220]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto33BB56BBA4EDDBF7B3434AEBB6366B634.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto3.umap'
+[2018.10.13-23.34.25:725][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.120
+[2018.10.13-23.34.25:725][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.120
+[2018.10.13-23.34.25:728][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tractor/tractor4groupsUVs_pCylinder26] ([1] browsable assets)...
+[2018.10.13-23.34.25:760][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26]
+[2018.10.13-23.34.25:760][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tractor/tractor4groupsUVs_pCylinder26]
+[2018.10.13-23.34.25:794][220]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder26_Au700466FA401673227812C29363FF70A9.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Tractor/tractor4groupsUVs_pCylinder26_Auto3.uasset'
+[2018.10.13-23.34.25:797][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tractor/tractor4groupsUVs_pCylinder29] ([1] browsable assets)...
+[2018.10.13-23.34.25:826][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder29.tractor4groupsUVs_pCylinder29]
+[2018.10.13-23.34.25:826][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tractor/tractor4groupsUVs_pCylinder29]
+[2018.10.13-23.34.25:858][220]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder29_AuFE68671E4869546D04A319A69A3B5062.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Tractor/tractor4groupsUVs_pCylinder29_Auto3.uasset'
+[2018.10.13-23.34.25:860][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tractor/tractor4groupsUVs_pCylinder17] ([1] browsable assets)...
+[2018.10.13-23.34.25:892][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder17.tractor4groupsUVs_pCylinder17]
+[2018.10.13-23.34.25:892][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tractor/tractor4groupsUVs_pCylinder17]
+[2018.10.13-23.34.25:927][220]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder17_Au804F08D24093F68EBD2B6DA5527BD8F4.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Tractor/tractor4groupsUVs_pCylinder17_Auto3.uasset'
+[2018.10.13-23.34.25:932][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tractor/tractor4groupsUVs_pCylinder28] ([1] browsable assets)...
+[2018.10.13-23.34.25:964][220]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder28.tractor4groupsUVs_pCylinder28]
+[2018.10.13-23.34.25:964][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tractor/tractor4groupsUVs_pCylinder28]
+[2018.10.13-23.34.25:999][220]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder28_AuBD27DAF2494521ED3939F3B7C09EA8B6.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Tractor/tractor4groupsUVs_pCylinder28_Auto3.uasset'
+[2018.10.13-23.34.26:001][220]LogFileHelpers: Auto-saving content packages took 0.275
+[2018.10.13-23.37.04:776][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder26)
+[2018.10.13-23.37.07:322][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.37.15:746][970]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx]
+[2018.10.13-23.37.15:800][970]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/models/Assignmet5Tractor/scenes/tractor4groupsUVs.fbx
+[2018.10.13-23.37.15:819][970]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.37.15:825][970]LogFbx: Warning: Triangulating static mesh pCylinder26
+[2018.10.13-23.37.15:908][970]LogStaticMesh: Building static mesh tractor4groupsUVs_pCylinder26...
+[2018.10.13-23.37.15:933][970]LogStaticMesh: Built static mesh [0.02s] /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26
+[2018.10.13-23.37.15:949][970]LogEditorFactories: -- imported successfully
+[2018.10.13-23.37.46:229][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.38.05:213][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.38.44:585][754]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.38.54:615][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.38.57:957][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.38.58:256][106]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge2DE34A50468DD15323E1E6B26A064034.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.13-23.38.58:296][106]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.321
+[2018.10.13-23.38.59:226][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X25)
+[2018.10.13-23.39.28:969][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.48.58:255][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.025
+[2018.10.13-23.48.58:257][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tractor/tractor4groupsUVs_pCylinder26] ([1] browsable assets)...
+[2018.10.13-23.48.58:292][517]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tractor/tractor4groupsUVs_pCylinder26.tractor4groupsUVs_pCylinder26]
+[2018.10.13-23.48.58:292][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tractor/tractor4groupsUVs_pCylinder26]
+[2018.10.13-23.48.58:328][517]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder26_Au13A6E67942A9F1F8C3F72BA28C6E0299.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Tractor/tractor4groupsUVs_pCylinder26_Auto4.uasset'
+[2018.10.13-23.48.58:330][517]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.10.13-23.50.19:075][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.50.28:993][100]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.13-23.50.39:323][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X20.fbx]
+[2018.10.13-23.50.39:441][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X20.fbx
+[2018.10.13-23.50.39:466][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.39:476][288]LogFbx: Warning: Triangulating static mesh pCube2
+[2018.10.13-23.50.39:499][288]LogStaticMesh: Building static mesh streetBlocks100X100X20...
+[2018.10.13-23.50.39:505][288]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X100X20.streetBlocks100X100X20
+[2018.10.13-23.50.39:518][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.50.39:580][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx]
+[2018.10.13-23.50.39:614][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx
+[2018.10.13-23.50.39:621][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.39:622][288]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.13-23.50.39:640][288]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2018.10.13-23.50.39:643][288]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2018.10.13-23.50.39:661][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.50.39:676][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X50X20.fbx]
+[2018.10.13-23.50.39:772][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X50X20.fbx
+[2018.10.13-23.50.39:796][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.39:805][288]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.13-23.50.39:829][288]LogStaticMesh: Building static mesh streetBlocks100X50X20...
+[2018.10.13-23.50.39:834][288]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X20.streetBlocks100X50X20
+[2018.10.13-23.50.39:857][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.50.39:920][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X50X30.fbx]
+[2018.10.13-23.50.40:028][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X50X30.fbx
+[2018.10.13-23.50.40:051][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.40:059][288]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.13-23.50.40:085][288]LogStaticMesh: Building static mesh streetBlocks100X50X30...
+[2018.10.13-23.50.40:091][288]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X30.streetBlocks100X50X30
+[2018.10.13-23.50.40:116][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.50.40:186][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks50RCorner.fbx]
+[2018.10.13-23.50.40:287][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks50RCorner.fbx
+[2018.10.13-23.50.40:310][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.40:319][288]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.10.13-23.50.40:346][288]LogStaticMesh: Building static mesh streetBlocks50RCorner...
+[2018.10.13-23.50.40:352][288]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks50RCorner.streetBlocks50RCorner
+[2018.10.13-23.50.40:378][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.50.40:446][288]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks50X50X20.fbx]
+[2018.10.13-23.50.40:565][288]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks50X50X20.fbx
+[2018.10.13-23.50.40:590][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.13-23.50.40:599][288]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.13-23.50.40:628][288]LogStaticMesh: Building static mesh streetBlocks50X50X20...
+[2018.10.13-23.50.40:630][288]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks50X50X20.streetBlocks50X50X20
+[2018.10.13-23.50.40:653][288]LogEditorFactories: -- imported successfully
+[2018.10.13-23.51.07:866][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X30)
+[2018.10.13-23.51.22:245][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X41)
+[2018.10.13-23.51.35:417][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.13-23.51.55:733][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.51.56:831][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X41)
+[2018.10.13-23.52.01:271][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X53)
+[2018.10.13-23.52.04:502][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X33)
+[2018.10.13-23.52.08:353][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X32)
+[2018.10.13-23.52.15:043][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X30)
+[2018.10.13-23.52.18:936][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X31)
+[2018.10.13-23.52.38:723][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X47)
+[2018.10.13-23.52.45:739][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X51)
+[2018.10.13-23.52.51:525][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X46)
+[2018.10.13-23.52.57:625][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X40)
+[2018.10.13-23.53.11:024][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.13-23.53.15:210][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X24)
+[2018.10.13-23.53.18:691][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X25)
+[2018.10.13-23.53.21:760][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X42)
+[2018.10.13-23.53.26:942][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.13-23.53.28:240][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.53.36:693][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X42)
+[2018.10.13-23.53.40:478][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X29)
+[2018.10.13-23.53.47:843][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X21)
+[2018.10.13-23.53.55:161][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X27)
+[2018.10.13-23.54.00:515][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X22)
+[2018.10.13-23.54.03:182][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X36)
+[2018.10.13-23.54.11:563][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.54.16:086][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.13-23.54.24:816][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X38)
+[2018.10.13-23.54.28:912][369]Cmd: TRANSACTION UNDO
+[2018.10.13-23.54.28:912][369]LogEditorTransaction: Undo Move Actors
+[2018.10.13-23.54.35:521][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X39)
+[2018.10.13-23.54.39:017][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X37)
+[2018.10.13-23.54.43:840][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X23)
+[2018.10.13-23.54.48:747][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X21)
+[2018.10.13-23.54.59:666][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X21)
+[2018.10.13-23.55.04:774][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.55.05:439][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner2)
+[2018.10.13-23.55.09:243][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X22)
+[2018.10.13-23.55.13:236][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50X50X20)
+[2018.10.13-23.55.15:274][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X34)
+[2018.10.13-23.55.17:437][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X22)
+[2018.10.13-23.55.22:506][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner4)
+[2018.10.13-23.55.26:157][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner3)
+[2018.10.13-23.55.30:043][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner)
+[2018.10.13-23.55.36:440][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X20)
+[2018.10.13-23.55.39:705][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X23)
+[2018.10.13-23.55.44:032][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X20)
+[2018.10.13-23.55.44:774][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X22)
+[2018.10.13-23.55.47:855][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X20)
+[2018.10.13-23.55.54:627][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X34)
+[2018.10.13-23.55.57:659][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X22)
+[2018.10.13-23.56.00:659][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X23)
+[2018.10.13-23.56.04:803][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50X50X20)
+[2018.10.13-23.56.07:628][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.56.36:255][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X35)
+[2018.10.13-23.56.45:846][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.56.47:864][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.56.52:989][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.56.54:575][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X35)
+[2018.10.13-23.56.58:813][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.57.03:018][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X35)
+[2018.10.13-23.57.04:216][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.57.06:366][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.57.17:618][160]LogEditorViewport: Clicking Background
+[2018.10.13-23.57.26:346][437]LogEditorViewport: Clicking Background
+[2018.10.13-23.57.27:423][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X22)
+[2018.10.13-23.57.37:787][794]LogEditorViewport: Clicking Background
+[2018.10.13-23.57.41:842][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.13-23.57.49:352][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X35)
+[2018.10.13-23.58.03:435][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.58.04:455][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X22)
+[2018.10.13-23.58.11:179][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X23)
+[2018.10.13-23.58.16:098][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X23)
+[2018.10.13-23.58.19:286][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X21)
+[2018.10.13-23.58.28:119][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.58.29:670][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.58.30:571][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X21)
+[2018.10.13-23.58.36:801][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.58.39:040][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X21)
+[2018.10.13-23.58.43:326][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.58.49:989][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X20)
+[2018.10.13-23.58.58:510][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.13-23.59.21:559][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.13-23.59.31:131][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner3)
+[2018.10.13-23.59.49:011][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X20)
+[2018.10.13-23.59.56:370][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-23.59.58:925][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.00.05:226][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X33)
+[2018.10.14-00.00.23:545][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.00.25:795][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X33)
+[2018.10.14-00.00.28:468][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.00.32:798][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X33)
+[2018.10.14-00.00.42:247][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.00.48:484][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.00.51:363][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.14-00.01.04:167][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.01.11:756][417]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.01.16:051][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.14-00.01.20:951][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.01.21:985][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.14-00.01.29:419][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.01.38:454][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X23)
+[2018.10.14-00.01.45:684][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.01.56:723][359]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.02.00:054][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.02.01:470][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X23)
+[2018.10.14-00.02.11:304][670]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.02.15:789][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X23)
+[2018.10.14-00.02.18:855][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.02.31:881][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X22)
+[2018.10.14-00.02.43:560][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.02.54:679][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X22)
+[2018.10.14-00.03.00:356][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.03.03:185][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X22)
+[2018.10.14-00.03.20:677][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.03.23:378][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.03.29:395][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X21)
+[2018.10.14-00.03.35:661][436]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.03.45:975][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.03.54:752][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X21)
+[2018.10.14-00.04.00:110][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.04.13:535][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner4)
+[2018.10.14-00.04.24:388][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.04.38:001][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.04.40:883][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner4)
+[2018.10.14-00.04.59:951][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.05.06:588][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner)
+[2018.10.14-00.05.19:382][620]Cmd: DELETE
+[2018.10.14-00.05.19:382][620]Cmd: ACTOR DELETE
+[2018.10.14-00.05.19:389][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.14-00.05.19:445][620]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.10.14-00.05.21:020][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner)
+[2018.10.14-00.05.28:941][821]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.05.45:387][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.05.47:559][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner)
+[2018.10.14-00.05.50:621][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.06.21:675][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner2)
+[2018.10.14-00.06.26:578][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.06.31:596][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X34)
+[2018.10.14-00.06.36:059][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner2)
+[2018.10.14-00.06.44:827][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X32)
+[2018.10.14-00.06.57:377][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.07.06:904][718]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.07.08:399][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X32)
+[2018.10.14-00.07.20:441][975]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.07.32:897][198]Cmd: TRANSACTION UNDO
+[2018.10.14-00.07.32:897][198]LogEditorTransaction: Undo Move Actors
+[2018.10.14-00.07.34:293][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.14-00.07.45:848][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.08.00:807][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.14-00.08.05:049][806]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.08.25:301][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner2)
+[2018.10.14-00.08.35:402][381]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.08.40:063][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X42)
+[2018.10.14-00.08.49:784][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.09.03:492][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.09.08:806][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.09.16:923][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X42)
+[2018.10.14-00.09.20:524][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.09.27:059][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.09.29:486][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.14-00.09.34:090][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.09.47:542][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.14-00.09.50:877][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.10.05:158][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner2)
+[2018.10.14-00.10.09:704][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.10.15:451][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X43)
+[2018.10.14-00.10.18:413][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.10.23:984][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.10.29:462][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X35)
+[2018.10.14-00.10.50:296][982]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.11.05:863][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.11.08:465][318]LogActorFactory: Actor Factory created streetBlocks100X100X30
+[2018.10.14-00.11.10:817][368]LogActorFactory: Actor Factory created streetBlocks100X100X30
+[2018.10.14-00.11.12:163][396]Cmd: DELETE
+[2018.10.14-00.11.12:163][396]Cmd: ACTOR DELETE
+[2018.10.14-00.11.12:170][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.14-00.11.12:220][396]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.10.14-00.11.19:066][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X28)
+[2018.10.14-00.11.27:366][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X29)
+[2018.10.14-00.11.33:384][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.11.44:904][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X28)
+[2018.10.14-00.11.51:401][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.11.54:558][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X28)
+[2018.10.14-00.12.00:007][424]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.12.32:338][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.12.47:238][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X24)
+[2018.10.14-00.12.54:005][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X25)
+[2018.10.14-00.13.03:741][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.13.23:676][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X30)
+[2018.10.14-00.13.33:065][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.13.37:226][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X41)
+[2018.10.14-00.13.44:882][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.13.48:456][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.14.05:650][ 68]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.14.08:899][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X41)
+[2018.10.14-00.14.13:114][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.14.15:543][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.14.17:747][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.14.24:132][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.14.25:836][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.14.27:185][516]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.14.30:386][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.14.33:285][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.14.38:275][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X26)
+[2018.10.14-00.14.43:692][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X24)
+[2018.10.14-00.14.45:053][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X25)
+[2018.10.14-00.14.52:101][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.14.52:803][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X41)
+[2018.10.14-00.15.05:186][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.15.09:822][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X37)
+[2018.10.14-00.15.16:796][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X39)
+[2018.10.14-00.15.21:642][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X38)
+[2018.10.14-00.15.25:474][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.15.41:024][ 41]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.15.45:158][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X39)
+[2018.10.14-00.15.56:890][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X37)
+[2018.10.14-00.16.03:582][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.16.08:458][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X37)
+[2018.10.14-00.16.13:325][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X38)
+[2018.10.14-00.16.17:173][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X39)
+[2018.10.14-00.16.26:661][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.16.46:059][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X58)
+[2018.10.14-00.16.50:552][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X63)
+[2018.10.14-00.16.58:344][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.17.00:152][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X63)
+[2018.10.14-00.17.12:297][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.17.20:538][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.17.21:537][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.14-00.17.24:646][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.17.36:727][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.17.48:001][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X31)
+[2018.10.14-00.17.56:452][711]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.18.04:059][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.18.06:956][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X31)
+[2018.10.14-00.18.09:347][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.18.17:988][147]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.18.18:726][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks50RCorner)
+[2018.10.14-00.18.21:669][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.18.32:269][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X25)
+[2018.10.14-00.18.34:638][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.18.47:531][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.19.11:790][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X27)
+[2018.10.14-00.19.23:589][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.19.35:200][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.19.37:726][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X34)
+[2018.10.14-00.19.45:896][769]Cmd: TRANSACTION UNDO
+[2018.10.14-00.19.45:897][769]LogEditorTransaction: Undo Move Actors
+[2018.10.14-00.20.02:656][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.20.08:103][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.20.12:212][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X36)
+[2018.10.14-00.20.29:208][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.20.50:427][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X20)
+[2018.10.14-00.21.05:541][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.21.15:081][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.21.21:097][592]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.21.30:052][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X58)
+[2018.10.14-00.21.54:534][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.22.14:965][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.22.17:980][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X58)
+[2018.10.14-00.22.19:643][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.22.25:083][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.22.26:357][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X53)
+[2018.10.14-00.22.47:001][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.23.00:336][368]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.23.01:559][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X52)
+[2018.10.14-00.23.07:091][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X40)
+[2018.10.14-00.23.12:502][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X57)
+[2018.10.14-00.23.16:846][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X47)
+[2018.10.14-00.23.25:353][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X62)
+[2018.10.14-00.23.28:713][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.23.30:499][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X52)
+[2018.10.14-00.23.37:037][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.24.18:032][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto5D2BA145A40E8FABFB42AB5BFEF66787D.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto5.umap'
+[2018.10.14-00.24.18:038][459]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.129
+[2018.10.14-00.24.18:038][459]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2018.10.14-00.24.18:040][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X100X20] ([1] browsable assets)...
+[2018.10.14-00.24.18:073][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X100X20.streetBlocks100X100X20]
+[2018.10.14-00.24.18:074][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X100X20]
+[2018.10.14-00.24.18:121][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X20_Auto55146AFBF4C8AF730A4F575BE62C9BF74.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X100X20_Auto5.uasset'
+[2018.10.14-00.24.18:125][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X100X30] ([1] browsable assets)...
+[2018.10.14-00.24.18:167][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30]
+[2018.10.14-00.24.18:167][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X100X30]
+[2018.10.14-00.24.18:209][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X30_Auto571717B6F4CC4C847DD3EA8A02AE0995E.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X100X30_Auto5.uasset'
+[2018.10.14-00.24.18:214][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X50X20] ([1] browsable assets)...
+[2018.10.14-00.24.18:267][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X50X20.streetBlocks100X50X20]
+[2018.10.14-00.24.18:267][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X50X20]
+[2018.10.14-00.24.18:314][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X50X20_Auto564CF4ED9461343F129AC1683D62AE4B4.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X50X20_Auto5.uasset'
+[2018.10.14-00.24.18:317][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X50X30] ([1] browsable assets)...
+[2018.10.14-00.24.18:378][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X50X30.streetBlocks100X50X30]
+[2018.10.14-00.24.18:378][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X50X30]
+[2018.10.14-00.24.18:481][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X50X30_Auto52A78937F4E25DF28EFA75F9C3502AF27.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X50X30_Auto5.uasset'
+[2018.10.14-00.24.18:483][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks50RCorner] ([1] browsable assets)...
+[2018.10.14-00.24.18:513][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks50RCorner.streetBlocks50RCorner]
+[2018.10.14-00.24.18:513][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks50RCorner]
+[2018.10.14-00.24.18:549][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks50RCorner_Auto50F6E5BEA4D3FCF22D66942A8BEB7022D.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks50RCorner_Auto5.uasset'
+[2018.10.14-00.24.18:551][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks50X50X20] ([1] browsable assets)...
+[2018.10.14-00.24.18:580][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks50X50X20.streetBlocks50X50X20]
+[2018.10.14-00.24.18:580][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks50X50X20]
+[2018.10.14-00.24.18:618][459]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks50X50X20_Auto5A6F4E76A4D354E8E4636D18572869318.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks50X50X20_Auto5.uasset'
+[2018.10.14-00.24.18:620][459]LogFileHelpers: Auto-saving content packages took 0.580
+[2018.10.14-00.24.25:952][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.24.31:707][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X52)
+[2018.10.14-00.24.33:435][639]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.24.39:854][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.24.41:957][762]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.24.54:011][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.25.01:450][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X40)
+[2018.10.14-00.25.02:558][134]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.25.11:556][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.25.28:537][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X57)
+[2018.10.14-00.25.37:382][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.25.54:612][981]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.25.59:125][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X47)
+[2018.10.14-00.26.06:939][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.26.11:388][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.26.28:311][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X62)
+[2018.10.14-00.26.34:697][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.26.46:383][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.27.02:485][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.30.31:098][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X46)
+[2018.10.14-00.30.42:090][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.30.51:186][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.31.02:564][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.31.05:693][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X44)
+[2018.10.14-00.32.02:921][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.32.12:993][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X45)
+[2018.10.14-00.32.33:886][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.32.38:539][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X51)
+[2018.10.14-00.32.48:114][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.32.58:576][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X50)
+[2018.10.14-00.33.09:251][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.33.14:353][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X54)
+[2018.10.14-00.33.15:176][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X55)
+[2018.10.14-00.33.22:303][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.33.38:184][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X61)
+[2018.10.14-00.33.44:400][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.33.50:321][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X61)
+[2018.10.14-00.33.54:387][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X54)
+[2018.10.14-00.34.00:520][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X60)
+[2018.10.14-00.34.14:429][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.34.24:435][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X56)
+[2018.10.14-00.34.26:334][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.34.39:468][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.35.08:224][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X49)
+[2018.10.14-00.35.15:090][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.35.20:184][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X59)
+[2018.10.14-00.35.31:269][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.35.42:548][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.35.43:514][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.35.45:358][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.35.46:970][516]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.36.12:177][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X39)
+[2018.10.14-00.36.22:823][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.36.24:723][268]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx]
+[2018.10.14-00.36.24:779][268]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx
+[2018.10.14-00.36.24:792][268]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.14-00.36.24:793][268]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.14-00.36.24:822][268]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2018.10.14-00.36.24:826][268]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2018.10.14-00.36.24:846][268]LogEditorFactories: -- imported successfully
+[2018.10.14-00.36.55:229][441]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto655F713274B67AA048A984085CC06FCB6.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto6.umap'
+[2018.10.14-00.36.55:233][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.117
+[2018.10.14-00.36.55:233][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.117
+[2018.10.14-00.36.55:234][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X100X30] ([1] browsable assets)...
+[2018.10.14-00.36.55:264][441]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30]
+[2018.10.14-00.36.55:264][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X100X30]
+[2018.10.14-00.36.55:296][441]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X30_Auto634B9C225488630B8FD54E593294F3824.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X100X30_Auto6.uasset'
+[2018.10.14-00.36.55:297][441]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.10.14-00.38.38:108][867]LogEditorFactories: Performing atomic reimport of [C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx]
+[2018.10.14-00.38.38:144][867]LogFbx: Loading FBX Scene from C:/Users/longf/Desktop/Fall18Semester/3010Pipeline/CityBlocks/CityBlocks/scenes/streetBlocks100X100X30.fbx
+[2018.10.14-00.38.38:152][867]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.14-00.38.38:153][867]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.10.14-00.38.38:172][867]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2018.10.14-00.38.38:175][867]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2018.10.14-00.38.38:188][867]LogEditorFactories: -- imported successfully
+[2018.10.14-00.38.42:394][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X30)
+[2018.10.14-00.38.44:039][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.38.58:778][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.39.07:767][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.39.19:319][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X42)
+[2018.10.14-00.39.21:346][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X27)
+[2018.10.14-00.39.25:119][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X35)
+[2018.10.14-00.39.34:063][ 56]Cmd: DELETE
+[2018.10.14-00.39.34:063][ 56]Cmd: ACTOR DELETE
+[2018.10.14-00.39.34:070][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.14-00.39.34:118][ 56]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.10.14-00.39.35:833][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X35)
+[2018.10.14-00.39.37:346][131]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.39.42:286][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.39.53:891][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.40.05:767][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X40)
+[2018.10.14-00.40.09:802][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X34)
+[2018.10.14-00.40.13:017][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X33)
+[2018.10.14-00.40.16:578][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X32)
+[2018.10.14-00.40.19:764][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X31)
+[2018.10.14-00.40.27:068][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X40)
+[2018.10.14-00.40.38:030][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.40.38:789][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X31)
+[2018.10.14-00.40.40:230][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.40.48:602][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.40.57:057][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X30)
+[2018.10.14-00.40.58:951][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.41.14:156][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X32)
+[2018.10.14-00.41.41:821][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X32)
+[2018.10.14-00.41.44:887][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X32)
+[2018.10.14-00.41.56:837][940]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.41.57:954][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X32)
+[2018.10.14-00.42.02:773][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.42.08:521][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.42.24:523][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X33)
+[2018.10.14-00.42.26:497][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.43.01:053][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X34)
+[2018.10.14-00.43.05:428][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.43.19:986][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X40)
+[2018.10.14-00.43.22:615][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.43.36:563][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.43.43:202][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X41)
+[2018.10.14-00.43.51:504][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X39)
+[2018.10.14-00.44.03:164][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X38)
+[2018.10.14-00.44.08:068][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X37)
+[2018.10.14-00.44.12:372][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X36)
+[2018.10.14-00.44.24:139][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X37)
+[2018.10.14-00.44.30:636][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.44.35:644][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X36)
+[2018.10.14-00.44.50:767][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X36)
+[2018.10.14-00.44.54:741][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.45.08:922][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X37)
+[2018.10.14-00.45.11:263][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.45.21:471][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X60)
+[2018.10.14-00.45.22:608][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X37)
+[2018.10.14-00.45.23:677][465]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.45.29:418][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.45.35:874][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X38)
+[2018.10.14-00.45.44:540][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.45.53:549][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X37)
+[2018.10.14-00.45.55:613][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X36)
+[2018.10.14-00.45.56:627][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X38)
+[2018.10.14-00.45.59:396][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X39)
+[2018.10.14-00.46.07:002][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.46.17:930][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X38)
+[2018.10.14-00.46.21:266][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X41)
+[2018.10.14-00.46.30:303][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.46.41:653][812]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.46.46:150][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X35)
+[2018.10.14-00.46.51:073][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.46.56:281][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.46.59:434][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X32)
+[2018.10.14-00.47.01:892][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.47.10:785][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.47.18:863][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder28)
+[2018.10.14-00.47.32:720][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.47.40:519][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.47.52:673][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.14-00.47.55:372][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.48.01:140][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder26)
+[2018.10.14-00.48.24:621][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.14-00.48.37:553][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor4groupsUVs_pCylinder17)
+[2018.10.14-00.48.38:358][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.49.09:806][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.49.10:051][789]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto7D474BAC04CA659586F9A659DCEEAC894.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto7.umap'
+[2018.10.14-00.49.10:057][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.202
+[2018.10.14-00.49.10:057][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.202
+[2018.10.14-00.49.10:060][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StreetBlocks/streetBlocks100X100X30] ([1] browsable assets)...
+[2018.10.14-00.49.10:094][789]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30]
+[2018.10.14-00.49.10:094][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/StreetBlocks/streetBlocks100X100X30]
+[2018.10.14-00.49.10:134][789]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X30_Auto7AAEA745A4FDFB8DC9ABDE88353F8769C.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetBlocks/streetBlocks100X100X30_Auto7.uasset'
+[2018.10.14-00.49.10:136][789]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.10.14-00.49.16:557][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.49.17:863][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.49.18:179][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge16A49A754DB33FE4AC69DF89F45039D6.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.14-00.49.18:226][971]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.352
+[2018.10.14-00.49.18:267][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X200A368EEC47CB6A7B8E0AFEBD8863F53C.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks100X100X20.uasset'
+[2018.10.14-00.49.18:301][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X100X302A3C93A1423EE18A1BE4859DFE56924A.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks100X100X30.uasset'
+[2018.10.14-00.49.18:343][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X50X20ECC6665242AB74D88A2DB5A6F86608FF.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks100X50X20.uasset'
+[2018.10.14-00.49.18:385][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks100X50X30D4B81D2F4E0C46D5E08660B875AC4957.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks100X50X30.uasset'
+[2018.10.14-00.49.18:425][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks50RCorner8C0D62FB40492D4EF259A6BD5CF7A308.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks50RCorner.uasset'
+[2018.10.14-00.49.18:467][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/streetBlocks50X50X20DFA9E1C54C3431A266042983AD5E9E98.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/StreetBlocks/streetBlocks50X50X20.uasset'
+[2018.10.14-00.49.18:505][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder2603289B1E43B19883A7B6A0AF864D0C1E.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder26.uasset'
+[2018.10.14-00.49.18:546][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder29024FE11C485C0F727C621EB4303EA323.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder29.uasset'
+[2018.10.14-00.49.18:591][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder17595B2F6B42960DCF2A5636B55DBD5C56.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder17.uasset'
+[2018.10.14-00.49.18:631][971]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/tractor4groupsUVs_pCylinder2881FAA53A456AA182B6EA63BF363EA7AE.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Content/Tractor/tractor4groupsUVs_pCylinder28.uasset'
+[2018.10.14-00.49.25:710][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.14-00.49.28:611][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X39)
+[2018.10.14-00.49.30:296][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.50.21:281][667]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/longf/Desktop/Fall18Semester/3660Machinima/FuseMayaUR/Fuse2URexample/char001FromFuse.fbx)
+[2018.10.14-00.50.21:368][667]LogFbx: Loading FBX Scene from ../../../../../../Users/longf/Desktop/Fall18Semester/3660Machinima/FuseMayaUR/Fuse2URexample/char001FromFuse.fbx
+[2018.10.14-00.50.21:867][667]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.14-00.50.23:856][667]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node START [Eyelashes] 
+[2018.10.14-00.50.23:904][667]LogFbx: 	Total Deformer Count -1319267776.
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node END [Eyelashes]
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node START [default] 
+[2018.10.14-00.50.23:904][667]LogFbx: 	Total Deformer Count -835537424.
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node END [default]
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node START [Body] 
+[2018.10.14-00.50.23:904][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.10.14-00.50.23:904][667]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node END [Body]
+[2018.10.14-00.50.23:904][667]LogFbx: =================================================
+[2018.10.14-00.50.23:904][667]LogFbx: Dumping Node START [Shoes] 
+[2018.10.14-00.50.23:904][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node END [Shoes]
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node START [Hair] 
+[2018.10.14-00.50.23:905][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node END [Hair]
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node START [Bottoms] 
+[2018.10.14-00.50.23:905][667]LogFbx: 	Total Deformer Count -835549296.
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node END [Bottoms]
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node START [Tops] 
+[2018.10.14-00.50.23:905][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node END [Tops]
+[2018.10.14-00.50.23:905][667]LogFbx: =================================================
+[2018.10.14-00.50.23:905][667]LogFbx: Dumping Node START [Eyelashes] 
+[2018.10.14-00.50.23:905][667]LogFbx: 	Total Deformer Count -1046530240.
+[2018.10.14-00.50.23:905][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.10.14-00.50.23:906][667]LogFbx: Dumping Node END [Eyelashes]
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: Dumping Node START [default] 
+[2018.10.14-00.50.23:906][667]LogFbx: 	Total Deformer Count -835547840.
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.10.14-00.50.23:906][667]LogFbx: Dumping Node END [default]
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: Dumping Node START [Body] 
+[2018.10.14-00.50.23:906][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:906][667]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.10.14-00.50.23:906][667]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.10.14-00.50.23:906][667]LogFbx: Dumping Node END [Body]
+[2018.10.14-00.50.23:906][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node START [Shoes] 
+[2018.10.14-00.50.23:907][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node END [Shoes]
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node START [Hair] 
+[2018.10.14-00.50.23:907][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node END [Hair]
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node START [Bottoms] 
+[2018.10.14-00.50.23:907][667]LogFbx: 	Total Deformer Count -835545152.
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node END [Bottoms]
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: Dumping Node START [Tops] 
+[2018.10.14-00.50.23:907][667]LogFbx: 	Total Deformer Count -1350776272.
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.10.14-00.50.23:907][667]LogFbx: =================================================
+[2018.10.14-00.50.23:907][667]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.10.14-00.50.23:907][667]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.10.14-00.50.23:908][667]LogFbx: Dumping Node END [Tops]
+[2018.10.14-00.50.23:911][667]LogFbx: Valid bind pose for Pose (BindPose) - Eyelashes
+[2018.10.14-00.50.23:915][667]LogMaterial: Warning: Material /Game/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.14-00.50.23:918][667]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.10.14-00.50.23:970][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Diffuse'
+[2018.10.14-00.50.23:970][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Diffuse'
+[2018.10.14-00.50.24:160][667]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.14-00.50.24:160][667]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.14-00.50.24:160][667]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.14-00.50.24:160][667]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.14-00.50.24:169][667]LogTexture: Display: Building textures: MACHicAssign004_Body_Diffuse (AutoDXT, 2048X2048)
+[2018.10.14-00.50.25:468][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Specular'
+[2018.10.14-00.50.25:468][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Specular'
+[2018.10.14-00.50.25:603][667]LogTexture: Display: Building textures: MACHicAssign004_Body_Specular (AutoDXT, 2048X2048)
+[2018.10.14-00.50.26:004][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Gloss'
+[2018.10.14-00.50.26:004][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Gloss'
+[2018.10.14-00.50.26:137][667]LogTexture: Display: Building textures: MACHicAssign004_Body_Gloss (AutoDXT, 2048X2048)
+[2018.10.14-00.50.26:705][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Normal'
+[2018.10.14-00.50.26:705][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Normal'
+[2018.10.14-00.50.26:924][667]LogTexture: Display: Building textures: MACHicAssign004_Body_Normal (BC5, 2048X2048)
+[2018.10.14-00.50.27:227][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Opacity'
+[2018.10.14-00.50.27:228][667]LogLinker: Can't find file '/Game/MACHicAssign004_Body_Opacity'
+[2018.10.14-00.50.27:299][667]LogTexture: Display: Building textures: MACHicAssign004_Body_Opacity (AutoDXT, 2048X2048)
+[2018.10.14-00.50.27:562][667]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.10.14-00.50.27:739][667]LogFbx: Triangulating skeletal mesh Eyelashes
+[2018.10.14-00.50.27:753][667]LogFbx: Triangulating skeletal mesh default
+[2018.10.14-00.50.27:875][667]LogFbx: Triangulating skeletal mesh Body
+[2018.10.14-00.50.29:427][667]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.10.14-00.50.29:427][667]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.10.14-00.50.29:427][667]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.10.14-00.50.29:427][667]LogMaterial: Warning: Material /Game/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.14-00.50.29:430][667]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2018.10.14-00.50.29:489][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Diffuse'
+[2018.10.14-00.50.29:489][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Diffuse'
+[2018.10.14-00.50.29:541][667]LogTexture: Display: Building textures: MACHicAssign004_Shoes_Diffuse (AutoDXT, 1024X1024)
+[2018.10.14-00.50.29:907][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Specular'
+[2018.10.14-00.50.29:908][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Specular'
+[2018.10.14-00.50.29:944][667]LogTexture: Display: Building textures: MACHicAssign004_Shoes_Specular (AutoDXT, 1024X1024)
+[2018.10.14-00.50.30:016][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Gloss'
+[2018.10.14-00.50.30:016][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Gloss'
+[2018.10.14-00.50.30:057][667]LogTexture: Display: Building textures: MACHicAssign004_Shoes_Gloss (AutoDXT, 1024X1024)
+[2018.10.14-00.50.30:205][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Normal'
+[2018.10.14-00.50.30:205][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Normal'
+[2018.10.14-00.50.30:263][667]LogTexture: Display: Building textures: MACHicAssign004_Shoes_Normal (BC5, 1024X1024)
+[2018.10.14-00.50.30:337][667]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.10.14-00.50.30:337][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Opacity'
+[2018.10.14-00.50.30:337][667]LogLinker: Can't find file '/Game/MACHicAssign004_Shoes_Opacity'
+[2018.10.14-00.50.30:362][667]LogTexture: Display: Building textures: MACHicAssign004_Shoes_Opacity (AutoDXT, 1024X1024)
+[2018.10.14-00.50.30:427][667]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2018.10.14-00.50.30:520][667]LogFbx: Triangulating skeletal mesh Shoes
+[2018.10.14-00.50.30:631][667]LogMaterial: Warning: Material /Game/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.14-00.50.30:634][667]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2018.10.14-00.50.30:686][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Diffuse'
+[2018.10.14-00.50.30:686][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Diffuse'
+[2018.10.14-00.50.30:726][667]LogTexture: Display: Building textures: MACHicAssign004_Hair_Diffuse (AutoDXT, 1024X1024)
+[2018.10.14-00.50.31:037][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Specular'
+[2018.10.14-00.50.31:037][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Specular'
+[2018.10.14-00.50.31:060][667]LogTexture: Display: Building textures: MACHicAssign004_Hair_Specular (AutoDXT, 1024X1024)
+[2018.10.14-00.50.31:128][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Gloss'
+[2018.10.14-00.50.31:128][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Gloss'
+[2018.10.14-00.50.31:149][667]LogTexture: Display: Building textures: MACHicAssign004_Hair_Gloss (AutoDXT, 1024X1024)
+[2018.10.14-00.50.31:268][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Normal'
+[2018.10.14-00.50.31:269][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Normal'
+[2018.10.14-00.50.31:298][667]LogTexture: Display: Building textures: MACHicAssign004_Hair_Normal (BC5, 1024X1024)
+[2018.10.14-00.50.31:372][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Opacity'
+[2018.10.14-00.50.31:373][667]LogLinker: Can't find file '/Game/MACHicAssign004_Hair_Opacity'
+[2018.10.14-00.50.31:417][667]LogTexture: Display: Building textures: MACHicAssign004_Hair_Opacity (AutoDXT, 1024X1024)
+[2018.10.14-00.50.31:624][667]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2018.10.14-00.50.31:713][667]LogFbx: Triangulating skeletal mesh Hair
+[2018.10.14-00.50.31:953][667]LogMaterial: Warning: Material /Game/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.14-00.50.31:955][667]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2018.10.14-00.50.32:000][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Diffuse'
+[2018.10.14-00.50.32:000][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Diffuse'
+[2018.10.14-00.50.32:061][667]LogTexture: Display: Building textures: MACHicAssign004_Bottom_Diffuse (AutoDXT, 1024X1024)
+[2018.10.14-00.50.32:592][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Specular'
+[2018.10.14-00.50.32:592][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Specular'
+[2018.10.14-00.50.32:616][667]LogTexture: Display: Building textures: MACHicAssign004_Bottom_Specular (AutoDXT, 1024X1024)
+[2018.10.14-00.50.32:652][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Gloss'
+[2018.10.14-00.50.32:653][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Gloss'
+[2018.10.14-00.50.32:695][667]LogTexture: Display: Building textures: MACHicAssign004_Bottom_Gloss (AutoDXT, 1024X1024)
+[2018.10.14-00.50.32:819][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Normal'
+[2018.10.14-00.50.32:819][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Normal'
+[2018.10.14-00.50.32:884][667]LogShaderCompilers: Display: Shaders left to compile 281
+[2018.10.14-00.50.32:888][667]LogTexture: Display: Building textures: MACHicAssign004_Bottom_Normal (BC5, 1024X1024)
+[2018.10.14-00.50.32:967][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Opacity'
+[2018.10.14-00.50.32:968][667]LogLinker: Can't find file '/Game/MACHicAssign004_Bottom_Opacity'
+[2018.10.14-00.50.32:989][667]LogTexture: Display: Building textures: MACHicAssign004_Bottom_Opacity (AutoDXT, 1024X1024)
+[2018.10.14-00.50.33:054][667]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2018.10.14-00.50.33:136][667]LogFbx: Triangulating skeletal mesh Bottoms
+[2018.10.14-00.50.33:351][667]LogMaterial: Warning: Material /Game/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.14-00.50.33:353][667]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2018.10.14-00.50.33:396][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Diffuse'
+[2018.10.14-00.50.33:396][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Diffuse'
+[2018.10.14-00.50.33:433][667]LogTexture: Display: Building textures: MACHicAssign004_Top_Diffuse (AutoDXT, 1024X1024)
+[2018.10.14-00.50.33:720][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Specular'
+[2018.10.14-00.50.33:721][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Specular'
+[2018.10.14-00.50.33:746][667]LogTexture: Display: Building textures: MACHicAssign004_Top_Specular (AutoDXT, 1024X1024)
+[2018.10.14-00.50.33:803][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Gloss'
+[2018.10.14-00.50.33:803][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Gloss'
+[2018.10.14-00.50.33:827][667]LogTexture: Display: Building textures: MACHicAssign004_Top_Gloss (AutoDXT, 1024X1024)
+[2018.10.14-00.50.33:881][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Normal'
+[2018.10.14-00.50.33:882][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Normal'
+[2018.10.14-00.50.33:950][667]LogTexture: Display: Building textures: MACHicAssign004_Top_Normal (BC5, 1024X1024)
+[2018.10.14-00.50.34:029][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Opacity'
+[2018.10.14-00.50.34:030][667]LogLinker: Can't find file '/Game/MACHicAssign004_Top_Opacity'
+[2018.10.14-00.50.34:054][667]LogTexture: Display: Building textures: MACHicAssign004_Top_Opacity (AutoDXT, 1024X1024)
+[2018.10.14-00.50.34:117][667]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2018.10.14-00.50.34:193][667]LogFbx: Triangulating skeletal mesh Tops
+[2018.10.14-00.50.34:458][667]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.10.14-00.50.35:469][667]LogShaderCompilers: Display: Shaders left to compile 385
+[2018.10.14-00.50.35:469][667]LogShaderCompilers: Display: Shaders left to compile 375
+[2018.10.14-00.50.35:697][667]LogSkeletalMesh: Section 0: 11398 vertices, 52 active bones
+[2018.10.14-00.50.35:698][667]LogSkeletalMesh: Section 1: 1086 vertices, 6 active bones
+[2018.10.14-00.50.35:698][667]LogSkeletalMesh: Section 2: 3364 vertices, 7 active bones
+[2018.10.14-00.50.35:698][667]LogSkeletalMesh: Section 3: 2346 vertices, 10 active bones
+[2018.10.14-00.50.35:699][667]LogSkeletalMesh: Section 4: 2377 vertices, 19 active bones
+[2018.10.14-00.50.35:703][667]LogSkeletalMesh: Section 0: Material=0, 20241 triangles
+[2018.10.14-00.50.35:703][667]LogSkeletalMesh: Section 1: Material=1, 1836 triangles
+[2018.10.14-00.50.35:703][667]LogSkeletalMesh: Section 2: Material=2, 4000 triangles
+[2018.10.14-00.50.35:703][667]LogSkeletalMesh: Section 3: Material=3, 4050 triangles
+[2018.10.14-00.50.35:703][667]LogSkeletalMesh: Section 4: Material=4, 4016 triangles
+[2018.10.14-00.50.35:706][667]LogSkeletalMesh: Building Skeletal Mesh char001FromFuse...
+[2018.10.14-00.50.35:876][667]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/char001FromFuse.char001FromFuse
+[2018.10.14-00.50.35:910][667]LogLinker: Can't find file '/Game/char001FromFuse_Skeleton'
+[2018.10.14-00.50.35:911][667]LogLinker: Can't find file '/Game/char001FromFuse_Skeleton'
+[2018.10.14-00.50.35:915][667]LogLinker: Can't find file '/Game/char001FromFuse_PhysicsAsset'
+[2018.10.14-00.50.35:915][667]LogLinker: Can't find file '/Game/char001FromFuse_PhysicsAsset'
+[2018.10.14-00.50.35:941][667]LogSkeletalMesh: Building Skeletal Mesh char001FromFuse...
+[2018.10.14-00.50.36:111][667]LogShaderCompilers: Display: Shaders left to compile 365
+[2018.10.14-00.50.36:111][667]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/char001FromFuse.char001FromFuse
+[2018.10.14-00.50.36:174][667]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.14-00.50.36:174][667]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandPinky4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandThumb4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.10.14-00.50.36:175][667]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2018.10.14-00.50.36:193][667]LogSkeletalMesh: Building Skeletal Mesh char001FromFuse...
+[2018.10.14-00.50.36:369][667]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/char001FromFuse.char001FromFuse
+[2018.10.14-00.50.43:209][748]LogSlate: Window 'Message Log' being destroyed
+[2018.10.14-00.50.43:284][748]LogSlate: Window 'Message Log' being destroyed
+[2018.10.14-00.50.43:591][754]LogShaderCompilers: Display: Shaders left to compile 355
+[2018.10.14-00.50.46:687][786]LogShaderCompilers: Display: Shaders left to compile 345
+[2018.10.14-00.50.47:032][790]LogShaderCompilers: Display: Shaders left to compile 335
+[2018.10.14-00.50.52:059][853]LogShaderCompilers: Display: Shaders left to compile 325
+[2018.10.14-00.50.54:075][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.14-00.50.55:603][904]LogShaderCompilers: Display: Shaders left to compile 315
+[2018.10.14-00.50.56:792][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X48)
+[2018.10.14-00.50.59:477][960]LogShaderCompilers: Display: Shaders left to compile 305
+[2018.10.14-00.51.01:981][998]LogShaderCompilers: Display: Shaders left to compile 295
+[2018.10.14-00.51.05:215][ 45]LogShaderCompilers: Display: Shaders left to compile 285
+[2018.10.14-00.51.06:491][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X50X33)
+[2018.10.14-00.51.07:485][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlocks100X100X36)
+[2018.10.14-00.51.10:755][120]LogShaderCompilers: Display: Shaders left to compile 275
+[2018.10.14-00.51.13:864][167]LogShaderCompilers: Display: Shaders left to compile 265
+[2018.10.14-00.51.17:865][229]LogShaderCompilers: Display: Shaders left to compile 255
+[2018.10.14-00.51.22:045][294]LogShaderCompilers: Display: Shaders left to compile 245
+[2018.10.14-00.51.23:243][312]LogShaderCompilers: Display: Shaders left to compile 235
+[2018.10.14-00.51.27:367][373]LogShaderCompilers: Display: Shaders left to compile 225
+[2018.10.14-00.51.33:681][466]LogShaderCompilers: Display: Shaders left to compile 215
+[2018.10.14-00.51.35:559][494]LogShaderCompilers: Display: Shaders left to compile 205
+[2018.10.14-00.51.39:639][553]LogShaderCompilers: Display: Shaders left to compile 195
+[2018.10.14-00.51.45:434][635]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.10.14-00.51.49:589][693]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.10.14-00.51.52:471][734]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.10.14-00.51.57:426][799]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.10.14-00.51.59:441][826]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.10.14-00.52.04:922][897]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.10.14-00.52.10:234][967]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.10.14-00.52.13:882][ 13]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.10.14-00.52.18:335][ 70]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.10.14-00.52.25:555][160]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.10.14-00.52.28:363][194]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.10.14-00.52.29:540][208]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.10.14-00.52.36:674][294]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.10.14-00.52.41:456][349]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.14-00.52.42:023][355]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.14-00.52.49:397][439]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.14-00.52.54:613][497]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.14-00.53.00:392][561]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.14-00.53.03:604][596]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.14-00.55.12:475][720]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (char001FromFuse)
+[2018.10.14-00.55.14:141][747]Cmd: DELETE
+[2018.10.14-00.55.14:141][747]Cmd: ACTOR DELETE
+[2018.10.14-00.55.14:158][747]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.14-00.55.14:215][747]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2018.10.14-00.55.35:181][210]Cmd: SELECT NONE
+[2018.10.14-00.55.36:974][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.14-00.59.18:385][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto867CBDAB54A32D5B02F83E79DD49845B2.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto8.umap'
+[2018.10.14-00.59.18:389][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.133
+[2018.10.14-00.59.18:389][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2018.10.14-00.59.18:392][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/char001FromFuse] ([1] browsable assets)...
+[2018.10.14-00.59.18:435][910]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/char001FromFuse.char001FromFuse]
+[2018.10.14-00.59.18:435][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/char001FromFuse]
+[2018.10.14-00.59.18:499][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/char001FromFuse_Auto86CE1C386498C62F6D5BF6AB3412C8084.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/char001FromFuse_Auto8.uasset'
+[2018.10.14-00.59.18:501][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bodymat] ([1] browsable assets)...
+[2018.10.14-00.59.18:539][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bodymat.Bodymat]
+[2018.10.14-00.59.18:539][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bodymat]
+[2018.10.14-00.59.18:539][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bodymat" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Bodymat_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.14-00.59.18:569][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Bodymat_Auto8498D7DDD4ABBF6C3CAE743ACC8D0602E.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Bodymat_Auto8.uasset'
+[2018.10.14-00.59.18:571][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Body_Diffuse] ([1] browsable assets)...
+[2018.10.14-00.59.18:581][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Body_Diffuse.MACHicAssign004_Body_Diffuse]
+[2018.10.14-00.59.18:581][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Body_Diffuse]
+[2018.10.14-00.59.18:607][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Body_Diffuse_Aut786F5660455EC2A2B36346BE80CE7AD9.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Body_Diffuse_Auto8.uasset'
+[2018.10.14-00.59.18:609][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Body_Specular] ([1] browsable assets)...
+[2018.10.14-00.59.18:619][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Body_Specular.MACHicAssign004_Body_Specular]
+[2018.10.14-00.59.18:619][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Body_Specular]
+[2018.10.14-00.59.18:641][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Body_Specular_AuCEDF0ED04F9B40ACAFCC2780EC88D8FE.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Body_Specular_Auto8.uasset'
+[2018.10.14-00.59.18:643][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Body_Gloss] ([1] browsable assets)...
+[2018.10.14-00.59.18:652][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Body_Gloss.MACHicAssign004_Body_Gloss]
+[2018.10.14-00.59.18:652][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Body_Gloss]
+[2018.10.14-00.59.18:673][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Body_Gloss_Auto80EC18EC14E7F0F134D542CA25DDB1104.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Body_Gloss_Auto8.uasset'
+[2018.10.14-00.59.18:674][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Body_Normal] ([1] browsable assets)...
+[2018.10.14-00.59.18:684][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Body_Normal.MACHicAssign004_Body_Normal]
+[2018.10.14-00.59.18:684][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Body_Normal]
+[2018.10.14-00.59.18:707][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Body_Normal_Auto8CD21FE7446DEDA59B1EF895C80FA56B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Body_Normal_Auto8.uasset'
+[2018.10.14-00.59.18:709][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Body_Opacity] ([1] browsable assets)...
+[2018.10.14-00.59.18:722][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Body_Opacity.MACHicAssign004_Body_Opacity]
+[2018.10.14-00.59.18:722][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Body_Opacity]
+[2018.10.14-00.59.18:740][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Body_Opacity_Aut7AE75ED64D66889C5809AE90F2B0E0EA.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Body_Opacity_Auto8.uasset'
+[2018.10.14-00.59.18:742][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shoesmat] ([1] browsable assets)...
+[2018.10.14-00.59.18:773][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Shoesmat.Shoesmat]
+[2018.10.14-00.59.18:773][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shoesmat]
+[2018.10.14-00.59.18:773][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shoesmat" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Shoesmat_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.14-00.59.18:801][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Shoesmat_Auto83B5DE38B4E15B2B4048674A06E94D2E2.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Shoesmat_Auto8.uasset'
+[2018.10.14-00.59.18:803][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Shoes_Diffuse] ([1] browsable assets)...
+[2018.10.14-00.59.18:811][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Shoes_Diffuse.MACHicAssign004_Shoes_Diffuse]
+[2018.10.14-00.59.18:811][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Shoes_Diffuse]
+[2018.10.14-00.59.18:828][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Shoes_Diffuse_Au102F11FE42C8737B5F4690ADAED7D5E2.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Shoes_Diffuse_Auto8.uasset'
+[2018.10.14-00.59.18:830][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Shoes_Specular] ([1] browsable assets)...
+[2018.10.14-00.59.18:840][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Shoes_Specular.MACHicAssign004_Shoes_Specular]
+[2018.10.14-00.59.18:840][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Shoes_Specular]
+[2018.10.14-00.59.18:858][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Shoes_Specular_AA4EB4EBC44394BC71D494C82D72179F9.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Shoes_Specular_Auto8.uasset'
+[2018.10.14-00.59.18:860][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Shoes_Gloss] ([1] browsable assets)...
+[2018.10.14-00.59.18:870][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Shoes_Gloss.MACHicAssign004_Shoes_Gloss]
+[2018.10.14-00.59.18:870][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Shoes_Gloss]
+[2018.10.14-00.59.18:887][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Shoes_Gloss_Auto3C246DF94A3E26A77B46B6916E5E6247.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Shoes_Gloss_Auto8.uasset'
+[2018.10.14-00.59.18:889][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Shoes_Normal] ([1] browsable assets)...
+[2018.10.14-00.59.18:899][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Shoes_Normal.MACHicAssign004_Shoes_Normal]
+[2018.10.14-00.59.18:899][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Shoes_Normal]
+[2018.10.14-00.59.18:919][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Shoes_Normal_Aut9B792B9246220D2DA05D96B97BBDCC63.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Shoes_Normal_Auto8.uasset'
+[2018.10.14-00.59.18:921][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Shoes_Opacity] ([1] browsable assets)...
+[2018.10.14-00.59.18:929][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Shoes_Opacity.MACHicAssign004_Shoes_Opacity]
+[2018.10.14-00.59.18:929][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Shoes_Opacity]
+[2018.10.14-00.59.18:942][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Shoes_Opacity_Au9F517E5C4984E3D5729EA48CFDA1CBA3.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Shoes_Opacity_Auto8.uasset'
+[2018.10.14-00.59.18:945][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hairmat] ([1] browsable assets)...
+[2018.10.14-00.59.18:977][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Hairmat.Hairmat]
+[2018.10.14-00.59.18:977][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hairmat]
+[2018.10.14-00.59.18:977][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hairmat" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Hairmat_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.14-00.59.19:008][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Hairmat_Auto890736A7D4044B95FFC2C68AB98A2B5A4.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Hairmat_Auto8.uasset'
+[2018.10.14-00.59.19:011][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Hair_Diffuse] ([1] browsable assets)...
+[2018.10.14-00.59.19:020][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Hair_Diffuse.MACHicAssign004_Hair_Diffuse]
+[2018.10.14-00.59.19:020][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Hair_Diffuse]
+[2018.10.14-00.59.19:040][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Hair_Diffuse_AutE8EAFCA240EBCBA521113E89322D2747.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Hair_Diffuse_Auto8.uasset'
+[2018.10.14-00.59.19:042][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Hair_Specular] ([1] browsable assets)...
+[2018.10.14-00.59.19:048][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Hair_Specular.MACHicAssign004_Hair_Specular]
+[2018.10.14-00.59.19:048][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Hair_Specular]
+[2018.10.14-00.59.19:067][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Hair_Specular_Au575635094355110CF49C898217A502E4.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Hair_Specular_Auto8.uasset'
+[2018.10.14-00.59.19:070][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Hair_Gloss] ([1] browsable assets)...
+[2018.10.14-00.59.19:081][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Hair_Gloss.MACHicAssign004_Hair_Gloss]
+[2018.10.14-00.59.19:081][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Hair_Gloss]
+[2018.10.14-00.59.19:101][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Hair_Gloss_Auto8DBAF547C464EEF96670FE88DBE340F22.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Hair_Gloss_Auto8.uasset'
+[2018.10.14-00.59.19:103][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Hair_Normal] ([1] browsable assets)...
+[2018.10.14-00.59.19:114][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Hair_Normal.MACHicAssign004_Hair_Normal]
+[2018.10.14-00.59.19:114][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Hair_Normal]
+[2018.10.14-00.59.19:135][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Hair_Normal_Auto8C2CE9334EFF2851270743B5F0F8437B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Hair_Normal_Auto8.uasset'
+[2018.10.14-00.59.19:138][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Hair_Opacity] ([1] browsable assets)...
+[2018.10.14-00.59.19:147][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Hair_Opacity.MACHicAssign004_Hair_Opacity]
+[2018.10.14-00.59.19:147][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Hair_Opacity]
+[2018.10.14-00.59.19:165][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Hair_Opacity_Aut1F63161144BD1087F7FF7BACC966B038.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Hair_Opacity_Auto8.uasset'
+[2018.10.14-00.59.19:167][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bottommat] ([1] browsable assets)...
+[2018.10.14-00.59.19:203][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bottommat.Bottommat]
+[2018.10.14-00.59.19:203][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bottommat]
+[2018.10.14-00.59.19:204][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bottommat" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Bottommat_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.14-00.59.19:232][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Bottommat_Auto87ED86608487F1C71A840919826BC30AA.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Bottommat_Auto8.uasset'
+[2018.10.14-00.59.19:234][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Bottom_Diffuse] ([1] browsable assets)...
+[2018.10.14-00.59.19:244][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Bottom_Diffuse.MACHicAssign004_Bottom_Diffuse]
+[2018.10.14-00.59.19:244][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Bottom_Diffuse]
+[2018.10.14-00.59.19:267][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Bottom_Diffuse_A426149EA48A89D771390969B581298A6.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Bottom_Diffuse_Auto8.uasset'
+[2018.10.14-00.59.19:268][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Bottom_Specular] ([1] browsable assets)...
+[2018.10.14-00.59.19:275][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Bottom_Specular.MACHicAssign004_Bottom_Specular]
+[2018.10.14-00.59.19:275][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Bottom_Specular]
+[2018.10.14-00.59.19:288][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Bottom_Specular_E2921B644F07C39D6708F0812C50ED2C.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Bottom_Specular_Auto8.uasset'
+[2018.10.14-00.59.19:291][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Bottom_Gloss] ([1] browsable assets)...
+[2018.10.14-00.59.19:297][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Bottom_Gloss.MACHicAssign004_Bottom_Gloss]
+[2018.10.14-00.59.19:297][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Bottom_Gloss]
+[2018.10.14-00.59.19:313][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Bottom_Gloss_Aut963AFF774CBC765F42A4F6B6A7589952.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Bottom_Gloss_Auto8.uasset'
+[2018.10.14-00.59.19:314][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Bottom_Normal] ([1] browsable assets)...
+[2018.10.14-00.59.19:324][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Bottom_Normal.MACHicAssign004_Bottom_Normal]
+[2018.10.14-00.59.19:324][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Bottom_Normal]
+[2018.10.14-00.59.19:349][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Bottom_Normal_Au7E6697CA493C8E9399F1E6974552DD8D.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Bottom_Normal_Auto8.uasset'
+[2018.10.14-00.59.19:350][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Bottom_Opacity] ([1] browsable assets)...
+[2018.10.14-00.59.19:361][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Bottom_Opacity.MACHicAssign004_Bottom_Opacity]
+[2018.10.14-00.59.19:361][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Bottom_Opacity]
+[2018.10.14-00.59.19:377][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Bottom_Opacity_A8F8E3604438B7629D20605806E09179D.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Bottom_Opacity_Auto8.uasset'
+[2018.10.14-00.59.19:379][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Topmat] ([1] browsable assets)...
+[2018.10.14-00.59.19:412][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Topmat.Topmat]
+[2018.10.14-00.59.19:412][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Topmat]
+[2018.10.14-00.59.19:414][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Topmat" FILE="../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Topmat_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.10.14-00.59.19:446][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Topmat_Auto8D839014A425E332194DF0CB48BB14FE0.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/Topmat_Auto8.uasset'
+[2018.10.14-00.59.19:448][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Top_Diffuse] ([1] browsable assets)...
+[2018.10.14-00.59.19:459][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Top_Diffuse.MACHicAssign004_Top_Diffuse]
+[2018.10.14-00.59.19:460][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Top_Diffuse]
+[2018.10.14-00.59.19:481][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Top_Diffuse_Auto5342A4E44450F2D879F894B67E714384.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Top_Diffuse_Auto8.uasset'
+[2018.10.14-00.59.19:484][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Top_Specular] ([1] browsable assets)...
+[2018.10.14-00.59.19:497][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Top_Specular.MACHicAssign004_Top_Specular]
+[2018.10.14-00.59.19:497][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Top_Specular]
+[2018.10.14-00.59.19:526][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Top_Specular_Aut555FEFF146EAF1D70B207AA95ED2A118.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Top_Specular_Auto8.uasset'
+[2018.10.14-00.59.19:528][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Top_Gloss] ([1] browsable assets)...
+[2018.10.14-00.59.19:541][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Top_Gloss.MACHicAssign004_Top_Gloss]
+[2018.10.14-00.59.19:541][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Top_Gloss]
+[2018.10.14-00.59.19:559][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Top_Gloss_Auto8488D183247AF16C95B8FFEA9DDF95E9B.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Top_Gloss_Auto8.uasset'
+[2018.10.14-00.59.19:561][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Top_Normal] ([1] browsable assets)...
+[2018.10.14-00.59.19:571][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Top_Normal.MACHicAssign004_Top_Normal]
+[2018.10.14-00.59.19:571][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Top_Normal]
+[2018.10.14-00.59.19:607][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Top_Normal_Auto8193A4AFB470825A89026C88378F56631.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Top_Normal_Auto8.uasset'
+[2018.10.14-00.59.19:608][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MACHicAssign004_Top_Opacity] ([1] browsable assets)...
+[2018.10.14-00.59.19:617][910]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MACHicAssign004_Top_Opacity.MACHicAssign004_Top_Opacity]
+[2018.10.14-00.59.19:618][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/MACHicAssign004_Top_Opacity]
+[2018.10.14-00.59.19:637][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/MACHicAssign004_Top_Opacity_AutoBFFC0A16422A602B47367EA1CF9B9623.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/MACHicAssign004_Top_Opacity_Auto8.uasset'
+[2018.10.14-00.59.19:639][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/char001FromFuse_Skeleton] ([1] browsable assets)...
+[2018.10.14-00.59.19:639][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/char001FromFuse_Skeleton]
+[2018.10.14-00.59.19:649][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/char001FromFuse_Skeleton_Auto8AE892CA748218A0723B34D9442D3281A.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/char001FromFuse_Skeleton_Auto8.uasset'
+[2018.10.14-00.59.19:651][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/char001FromFuse_PhysicsAsset] ([1] browsable assets)...
+[2018.10.14-00.59.19:688][910]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/char001FromFuse_PhysicsAsset.char001FromFuse_PhysicsAsset]
+[2018.10.14-00.59.19:688][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/char001FromFuse_PhysicsAsset]
+[2018.10.14-00.59.19:720][910]LogSavePackage: Moving '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/char001FromFuse_PhysicsAsset_Aut6D198FBC423207CC55242FB6D5F8D7A1.tmp' to '../../../../../../Users/longf/Documents/Unreal Projects/APsec1LargeCityBase/Saved/Autosaves/Game/char001FromFuse_PhysicsAsset_Auto8.uasset'
+[2018.10.14-00.59.19:722][910]LogFileHelpers: Auto-saving content packages took 1.331
