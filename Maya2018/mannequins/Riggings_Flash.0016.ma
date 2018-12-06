@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff07 scene
 //Name: Riggings_Flash.0016.ma
-//Last modified: Wed, Dec 05, 2018 08:05:18 PM
+//Last modified: Wed, Dec 05, 2018 08:08:48 PM
 //Codeset: 1252
 requires maya "2018ff07";
 requires "stereoCamera" "10.0";
@@ -14,8 +14,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "75C467D0-43F3-EFE8-1E8A-99895825EF4E";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 406.31230749609045 131.88432295896447 143.84804132316026 ;
-	setAttr ".r" -type "double3" -18.33835272927567 795.39999999959252 6.3088879654883304e-15 ;
+	setAttr ".t" -type "double3" 219.08531837717931 273.03449595671538 300.76531630352474 ;
+	setAttr ".r" -type "double3" -39.338352729281887 759.7999999995692 -4.1398189389342352e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D639E1FA-4BAF-9AC9-7AE8-0ABADB0687A6";
 	setAttr -k off ".v" no;
